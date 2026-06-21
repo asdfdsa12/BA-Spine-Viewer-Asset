@@ -1,97 +1,33 @@
-
 CH0187_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 2, 777
-  size: 112, 79
-  orig: 112, 79
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.06
 00_default
-  rotate: false
-  xy: 2, 777
-  size: 112, 79
-  orig: 112, 79
-  offset: 0, 0
-  index: -1
+bounds:1375,1589,228,161
+01_normal
+bounds:1375,1589,228,161
 02_respond
-  rotate: false
-  xy: 2, 941
-  size: 112, 82
-  orig: 112, 82
-  offset: 0, 0
-  index: -1
+bounds:2,1584,228,166
 03_smile
-  rotate: false
-  xy: 2, 532
-  size: 112, 79
-  orig: 112, 79
-  offset: 0, 0
-  index: -1
+bounds:1605,1428,228,160
 04_embrassed
-  rotate: false
-  xy: 509, 832
-  size: 112, 77
-  orig: 112, 77
-  offset: 0, 0
-  index: -1
+bounds:1096,1425,228,158
 05_serious
-  rotate: false
-  xy: 2, 858
-  size: 112, 81
-  orig: 112, 81
-  offset: 0, 0
-  index: -1
+bounds:1145,1585,228,165
 06_depressed
-  rotate: false
-  xy: 547, 911
-  size: 112, 72
-  orig: 112, 72
-  offset: 0, 0
-  index: -1
+bounds:2,1436,228,146
 07
-  rotate: false
-  xy: 493, 751
-  size: 112, 79
-  orig: 112, 79
-  offset: 0, 0
-  index: -1
+bounds:1605,1590,228,160
 CH0187
-  rotate: 180
-  xy: 574, 168
-  size: 448, 587
-  orig: 671, 1363
-  offset: 117, 776
-  index: -1
-CH01878
-  rotate: false
-  xy: 2, 224
-  size: 671, 799
-  orig: 671, 1363
-  offset: 0, 1
-  index: -1
+bounds:1086,2,960,1367
+offsets:208,1411,1367,2778
+rotate:180
+CH0187C
+bounds:2,157,1367,1593
+offsets:0,0,1367,2778
 eyeclose
-  rotate: false
-  xy: 2, 451
-  size: 106, 79
-  orig: 106, 79
-  offset: 0, 0
-  index: -1
+bounds:1375,1426,215,161
 fronthair
-  rotate: false
-  xy: 607, 754
-  size: 121, 75
-  orig: 121, 75
-  offset: 0, 0
-  index: -1
+bounds:2,1280,247,154
 halo
-  rotate: false
-  xy: 193, 846
-  size: 184, 177
-  orig: 184, 177
-  offset: 0, 0
-  index: -1
+bounds:423,1390,375,360

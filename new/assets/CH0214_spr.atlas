@@ -1,104 +1,46 @@
-
 CH0214_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.18
 00_default
-  rotate: false
-  xy: 2, 731
-  size: 113, 98
-  orig: 113, 98
-  offset: 0, 0
-  index: -1
+bounds:1271,1799,256,223
 00_eye close
-  rotate: false
-  xy: 840, 373
-  size: 109, 85
-  orig: 109, 85
-  offset: 0, 0
-  index: -1
+bounds:502,2,247,192
+rotate:90
 01_normal
-  rotate: false
-  xy: 849, 460
-  size: 113, 85
-  orig: 113, 85
-  offset: 0, 0
-  index: -1
+bounds:914,438,256,192
+rotate:90
 02_respond
-  rotate: false
-  xy: 789, 292
-  size: 112, 80
-  orig: 112, 80
-  offset: 0, 0
-  index: -1
+bounds:1714,86,254,181
+rotate:90
 03_smile
-  rotate: false
-  xy: 302, 934
-  size: 106, 89
-  orig: 106, 89
-  offset: 0, 0
-  index: -1
+bounds:298,11,241,202
+rotate:90
 04_embarassed
-  rotate: false
-  xy: 2, 831
-  size: 113, 98
-  orig: 113, 98
-  offset: 0, 0
-  index: -1
+bounds:1529,1799,256,223
 05_serious
-  rotate: false
-  xy: 828, 547
-  size: 111, 96
-  orig: 111, 96
-  offset: 0, 0
-  index: -1
+bounds:312,1771,251,217
+rotate:90
 06_depressed
-  rotate: false
-  xy: 2, 645
-  size: 129, 83
-  orig: 129, 83
-  offset: 0, 0
-  index: -1
+bounds:2,67,294,189
 07_smug_face
-  rotate: true
-  xy: 945, 550
-  size: 106, 77
-  orig: 106, 77
-  offset: 0, 0
-  index: -1
+bounds:1864,1397,240,175
+rotate:90
 08_excitement
-  rotate: false
-  xy: 2, 931
-  size: 136, 92
-  orig: 136, 92
-  offset: 0, 0
-  index: -1
+bounds:859,1814,309,208
 09_sulk
-  rotate: true
-  xy: 903, 262
-  size: 109, 80
-  orig: 109, 80
-  offset: 0, 0
-  index: -1
+bounds:1787,1841,248,181
 halo
-  rotate: false
-  xy: 567, 271
-  size: 220, 156
-  orig: 220, 156
-  offset: 0, 0
-  index: -1
+bounds:1568,346,499,354
+rotate:90
 minori
-  rotate: 270
-  xy: 539, 429
-  size: 593, 469
-  orig: 593, 1233
-  offset: 0, 764
-  index: -1
+bounds:840,464,1345,1077
+offsets:0,1721,1345,2798
+rotate:270
 minori_0
-  rotate: false
-  xy: 2, 240
-  size: 564, 783
-  orig: 593, 1233
-  offset: 29, 0
-  index: -1
+bounds:2,245,910,1777
+offsets:435,0,1345,2798
+minori_2
+bounds:848,32,430,865
+offsets:65,895,1345,2798
+rotate:90

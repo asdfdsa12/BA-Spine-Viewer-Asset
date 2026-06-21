@@ -1,50 +1,52 @@
 NP0169_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.6
+size:2048,2048
+filter:Linear,Linear
+scale:1.22
 01_normal
-	bounds: 2, 104, 136, 107
+bounds:320,244,276,218
 default
-	bounds: 2, 104, 136, 107
+bounds:320,244,276,218
 02_respond
-	bounds: 173, 886, 169, 111
+bounds:347,1815,343,226
 03_smile
-	bounds: 783, 177, 136, 111
+bounds:1208,352,276,226
 04_embarrass
-	bounds: 468, 163, 136, 110
+bounds:1823,1313,276,223
+rotate:90
 05_serious
-	bounds: 297, 91, 136, 106
+bounds:598,201,276,215
 06_depressed
-	bounds: 895, 401, 127, 125
+bounds:1211,580,257,254
 07
-	bounds: 901, 658, 127, 121
-	rotate: 90
+bounds:1686,356,257,245
 08
-	bounds: 598, 275, 127, 121
+bounds:961,344,257,245
+rotate:90
 09
-	bounds: 921, 263, 136, 98
-	rotate: 90
+bounds:1833,623,276,199
+rotate:90
 10
-	bounds: 2, 406, 136, 136
+bounds:2,844,276,276
 11
-	bounds: 159, 110, 136, 107
+bounds:2,233,276,217
 E_hair
-	bounds: 740, 2, 280, 180
+bounds:1282,2,570,366
+rotate:180
 Front_Hair
-	bounds: 434, 66, 161, 95
+bounds:987,156,327,194
 Halo
-	bounds: 391, 851, 248, 146
+bounds:789,1743,505,298
 Light_Halo3
-	bounds: 2, 212, 253, 143
+bounds:2,447,514,292
 R_arm2_Weapon_OFF
-	bounds: 645, 170, 164, 484
+bounds:1309,370,334,985
 eyeclose
-	bounds: 606, 137, 136, 107
-	rotate: 90
+bounds:1828,901,276,218
+rotate:90
 misaki
-	bounds: 2, 198, 607, 799
-	offsets: 0, 547, 656, 1346
+bounds:2,418,1233,1623
+offsets:0,1113,1333,2736
 misaki_1
-	bounds: 494, 289, 489, 708
-	offsets: 167, 0, 656, 1346
-	rotate: 180
+bounds:1000,602,992,1439
+offsets:341,0,1333,2736
+rotate:180

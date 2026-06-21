@@ -1,314 +1,103 @@
-
 NP0012_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.97
 00_default
-  rotate: false
-  xy: 425, 144
-  size: 101, 71
-  orig: 101, 71
-  offset: 0, 0
-  index: -1
+bounds:1154,581,196,137
+rotate:90
 01_normal
-  rotate: false
-  xy: 2, 135
-  size: 101, 70
-  orig: 101, 70
-  offset: 0, 0
-  index: -1
+bounds:1449,151,196,135
 02_respond
-  rotate: false
-  xy: 105, 80
-  size: 101, 69
-  orig: 101, 69
-  offset: 0, 0
-  index: -1
+bounds:205,78,196,134
 03_smile 1
-  rotate: false
-  xy: 815, 80
-  size: 102, 69
-  orig: 102, 69
-  offset: 0, 0
-  index: -1
+bounds:1219,139,197,134
 04_embarassed
-  rotate: false
-  xy: 513, 52
-  size: 101, 68
-  orig: 101, 68
-  offset: 0, 0
-  index: -1
+bounds:1845,20,196,131
 08_serious
-  rotate: 270
-  xy: 616, 47
-  size: 101, 68
-  orig: 101, 68
-  offset: 0, 0
-  index: -1
+bounds:1647,19,196,131
 09_depressed
-  rotate: true
-  xy: 2, 31
-  size: 102, 67
-  orig: 102, 67
-  offset: 0, 0
-  index: -1
+bounds:1418,19,197,130
 10_fury 2
-  rotate: false
-  xy: 344, 778
-  size: 104, 79
-  orig: 104, 79
-  offset: 0, 0
-  index: -1
+bounds:1844,1112,202,152
 10_irritated
-  rotate: true
-  xy: 542, 121
-  size: 101, 70
-  orig: 101, 70
-  offset: 0, 0
-  index: -1
+bounds:1647,152,196,135
 11_shout
-  rotate: false
-  xy: 921, 458
-  size: 101, 79
-  orig: 101, 79
-  offset: 0, 0
-  index: -1
+bounds:1086,424,196,152
 12_fury
-  rotate: false
-  xy: 920, 610
-  size: 102, 80
-  orig: 102, 80
-  offset: 0, 0
-  index: -1
+bounds:1849,883,197,155
 13_smile 2
-  rotate: true
-  xy: 921, 835
-  size: 102, 72
-  orig: 102, 72
-  offset: 0, 0
-  index: -1
+bounds:818,197,197,140
 14_smile 3
-  rotate: false
-  xy: 919, 82
-  size: 103, 68
-  orig: 103, 68
-  offset: 0, 0
-  index: -1
+bounds:1017,141,200,132
 15
-  rotate: false
-  xy: 2, 206
-  size: 104, 76
-  orig: 104, 76
-  offset: 0, 0
-  index: -1
+bounds:1056,275,202,147
 15_shy
-  rotate: false
-  xy: 712, 80
-  size: 101, 69
-  orig: 101, 69
-  offset: 0, 0
-  index: -1
+bounds:601,70,196,133
 16
-  rotate: false
-  xy: 319, 148
-  size: 104, 70
-  orig: 104, 70
-  offset: 0, 0
-  index: -1
+bounds:1845,153,201,135
 16_hesitate
-  rotate: false
-  xy: 208, 79
-  size: 101, 69
-  orig: 101, 69
-  offset: 0, 0
-  index: -1
+bounds:403,75,196,133
 17
-  rotate: false
-  xy: 311, 76
-  size: 99, 70
-  orig: 99, 70
-  offset: 0, 0
-  index: -1
+bounds:799,60,192,135
 18
-  rotate: false
-  xy: 412, 73
-  size: 99, 69
-  orig: 99, 69
-  offset: 0, 0
-  index: -1
+bounds:2,31,192,134
 19
-  rotate: true
-  xy: 551, 224
-  size: 104, 76
-  orig: 104, 76
-  offset: 0, 0
-  index: -1
+bounds:2,305,202,147
 20
-  rotate: false
-  xy: 2, 852
-  size: 105, 79
-  orig: 105, 79
-  offset: 0, 0
-  index: -1
+bounds:683,1450,204,153
 21_panic
-  rotate: true
-  xy: 951, 711
-  size: 104, 71
-  orig: 104, 71
-  offset: 0, 0
-  index: -1
+bounds:614,205,202,137
 22
-  rotate: true
-  xy: 2, 346
-  size: 104, 71
-  orig: 104, 71
-  offset: 0, 0
-  index: -1
+bounds:410,210,202,137
 23
-  rotate: false
-  xy: 214, 149
-  size: 104, 70
-  orig: 104, 70
-  offset: 0, 0
-  index: -1
+bounds:2,167,201,136
 24
-  rotate: false
-  xy: 103, 938
-  size: 104, 85
-  orig: 104, 85
-  offset: 0, 0
-  index: -1
+bounds:1803,1759,201,164
 25
-  rotate: false
-  xy: 921, 938
-  size: 99, 84
-  orig: 99, 84
-  offset: 0, 0
-  index: -1
+bounds:1803,1594,192,163
 26
-  rotate: false
-  xy: 2, 933
-  size: 100, 89
-  orig: 100, 89
-  offset: 0, 0
-  index: -1
+bounds:115,1750,193,173
 27
-  rotate: false
-  xy: 108, 151
-  size: 104, 71
-  orig: 104, 71
-  offset: 0, 0
-  index: -1
+bounds:206,214,202,138
 28
-  rotate: false
-  xy: 919, 12
-  size: 99, 69
-  orig: 99, 69
-  offset: 0, 0
-  index: -1
+bounds:993,6,192,133
 NP0012
-  rotate: 180
-  xy: 629, 151
-  size: 393, 516
-  orig: 835, 1291
-  offset: 149, 775
-  index: -1
+bounds:1284,286,762,999
+offsets:289,1504,1619,2504
+rotate:180
 NP0012_copy
-  rotate: false
-  xy: 2, 216
-  size: 781, 808
-  orig: 835, 1291
-  offset: 0, 1
-  index: -1
+bounds:2,337,1529,1586
+offsets:0,0,1619,2504
 eyeclose
-  rotate: true
-  xy: 450, 759
-  size: 98, 70
-  orig: 98, 70
-  offset: 0, 0
-  index: -1
+bounds:1187,2,189,135
 face_blood 1
-  rotate: false
-  xy: 209, 956
-  size: 42, 67
-  orig: 42, 90
-  offset: 0, 23
-  index: -1
+bounds:989,1794,80,129
+offsets:1,46,81,175
 face_blood 2
-  rotate: false
-  xy: 525, 998
-  size: 18, 25
-  orig: 18, 25
-  offset: 0, 0
-  index: -1
+bounds:428,1875,34,48
 flush
-  rotate: false
-  xy: 685, 29
-  size: 102, 49
-  orig: 102, 49
-  offset: 0, 0
-  index: -1
+bounds:1270,1725,198,94
+rotate:90
 fronthair
-  rotate: false
-  xy: 756, 673
-  size: 200, 164
-  orig: 203, 164
-  offset: 1, 0
-  index: -1
+bounds:1561,1245,388,318
+offsets:2,0,393,318
 halo_1
-  rotate: false
-  xy: 339, 858
-  size: 163, 164
-  orig: 163, 164
-  offset: 0, 0
-  index: -1
+bounds:672,1605,315,318
 halo_2
-  rotate: false
-  xy: 704, 838
-  size: 216, 185
-  orig: 216, 185
-  offset: 0, 0
-  index: -1
+bounds:1383,1565,418,358
 mask
-  rotate: true
-  xy: 577, 344
-  size: 98, 73
-  orig: 102, 73
-  offset: 0, 0
-  index: -1
+bounds:310,1734,189,141
+offsets:0,0,197,141
+rotate:90
 mask2
-  rotate: true
-  xy: 577, 344
-  size: 98, 73
-  orig: 102, 73
-  offset: 0, 0
-  index: -1
+bounds:310,1734,189,141
+offsets:0,0,197,141
+rotate:90
 small hair 01
-  rotate: false
-  xy: 503, 883
-  size: 20, 139
-  orig: 20, 139
-  offset: 0, 0
-  index: -1
+bounds:75,1653,38,270
 small hair 02
-  rotate: false
-  xy: 52, 678
-  size: 37, 173
-  orig: 37, 173
-  offset: 0, 0
-  index: -1
+bounds:2,1588,71,335
 sweat
-  rotate: false
-  xy: 215, 1017
-  size: 3, 6
-  orig: 3, 6
-  offset: 0, 0
-  index: -1
+bounds:319,1912,6,11
 sweat 2
-  rotate: false
-  xy: 209, 1016
-  size: 4, 6
-  orig: 4, 6
-  offset: 0, 0
-  index: -1
+bounds:310,1912,7,11

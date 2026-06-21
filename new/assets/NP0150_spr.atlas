@@ -1,76 +1,29 @@
-
 NP0150_spr.png
-size: 1024,512
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.7
 00_default
-  rotate: false
-  xy: 2, 248
-  size: 24, 23
-  orig: 24, 23
-  offset: 0, 0
-  index: -1
+bounds:1686,1969,77,73
 01_normal
-  rotate: false
-  xy: 2, 301
-  size: 12, 6
-  orig: 12, 6
-  offset: 0, 0
-  index: -1
+bounds:1660,2003,39,20
+rotate:90
 02_respond
-  rotate: false
-  xy: 2, 234
-  size: 14, 11
-  orig: 14, 11
-  offset: 0, 0
-  index: -1
+bounds:1093,2006,46,36
 03_smile
-  rotate: false
-  xy: 2, 323
-  size: 14, 8
-  orig: 14, 8
-  offset: 0, 0
-  index: -1
+bounds:1141,1998,44,26
+rotate:90
 04_embarassed
-  rotate: false
-  xy: 274, 324
-  size: 45, 25
-  orig: 45, 25
-  offset: 0, 0
-  index: -1
+bounds:969,1960,145,82
 05_serious
-  rotate: false
-  xy: 2, 273
-  size: 40, 22
-  orig: 40, 22
-  offset: 0, 0
-  index: -1
+bounds:1557,1972,128,70
 06_depressed
-  rotate: false
-  xy: 2, 308
-  size: 21, 9
-  orig: 73, 48
-  offset: 36, 0
-  index: -1
+bounds:1765,2013,66,29
+offsets:116,0,235,155
 NP0150
-  rotate: false
-  xy: 2, 3
-  size: 301, 493
-  orig: 301, 1103
-  offset: 0, 610
-  index: -1
+bounds:2,462,966,1580
+offsets:0,1959,966,3539
 NP0150_1
-  rotate: 270
-  xy: 269, 113
-  size: 301, 636
-  orig: 301, 1103
-  offset: 0, 0
-  index: -1
+bounds:905,2,966,2040
+offsets:0,0,966,3539
 halo
-  rotate: false
-  xy: 305, 368
-  size: 220, 127
-  orig: 220, 127
-  offset: 0, 0
-  index: -1
+bounds:2,52,706,408

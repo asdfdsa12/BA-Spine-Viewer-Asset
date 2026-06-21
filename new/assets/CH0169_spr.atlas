@@ -1,216 +1,102 @@
-
 CH0169_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
 00_default
-  rotate: false
-  xy: 725, 111
-  size: 109, 82
-  orig: 114, 82
-  offset: 4, 0
-  index: -1
+bounds:2,238,216,163
+offsets:9,0,228,163
+rotate:90
 01_normal
-  rotate: false
-  xy: 698, 30
-  size: 106, 79
-  orig: 114, 83
-  offset: 4, 1
-  index: -1
+bounds:1624,75,212,157
+offsets:8,2,227,165
 02_respond
-  rotate: 270
-  xy: 204, 100
-  size: 106, 85
-  orig: 112, 89
-  offset: 3, 1
-  index: -1
+bounds:577,202,211,168
+offsets:7,3,223,177
+rotate:180
 03_smile
-  rotate: true
-  xy: 509, 54
-  size: 106, 82
-  orig: 112, 87
-  offset: 3, 2
-  index: -1
+bounds:789,118,212,163
+offsets:6,4,223,174
+rotate:90
 04_embarrassed
-  rotate: true
-  xy: 2, 420
-  size: 108, 85
-  orig: 114, 88
-  offset: 4, 0
-  index: -1
+bounds:2,782,216,170
+offsets:8,0,227,176
+rotate:90
 05_serious
-  rotate: false
-  xy: 492, 162
-  size: 108, 84
-  orig: 111, 86
-  offset: 2, 0
-  index: -1
+bounds:1878,1553,215,168
+offsets:4,0,222,172
+rotate:90
 06_depressed
-  rotate: true
-  xy: 6, 42
-  size: 109, 79
-  orig: 114, 83
-  offset: 4, 0
-  index: -1
+bounds:953,106,217,158
+offsets:9,0,228,165
 07_close_02
-  rotate: 180
-  xy: 87, 108
-  size: 109, 82
-  orig: 111, 85
-  offset: 2, 0
-  index: -1
+bounds:1665,233,218,163
+offsets:4,0,222,170
+rotate:180
 08_respond_02
-  rotate: true
-  xy: 941, 800
-  size: 109, 81
-  orig: 111, 82
-  offset: 2, 0
-  index: -1
+bounds:1882,178,217,161
+offsets:5,0,222,163
+rotate:90
 09_smile_02
-  rotate: true
-  xy: 2, 152
-  size: 107, 83
-  orig: 111, 83
-  offset: 4, 0
-  index: -1
+bounds:1232,270,213,166
+offsets:8,0,221,166
 10_embarrassed_02
-  rotate: false
-  xy: 617, 163
-  size: 107, 88
-  orig: 111, 92
-  offset: 3, 1
-  index: -1
+bounds:178,332,212,174
+offsets:7,3,222,183
 11_embarassed_03
-  rotate: false
-  xy: 764, 284
-  size: 107, 97
-  orig: 114, 102
-  offset: 4, 1
-  index: -1
+bounds:1832,1325,214,192
+offsets:8,3,228,203
 12_depressed_02
-  rotate: false
-  xy: 395, 5
-  size: 99, 73
-  orig: 102, 77
-  offset: 2, 0
-  index: -1
+bounds:574,55,196,146
+offsets:5,0,203,153
 13_depressed_03
-  rotate: false
-  xy: 400, 79
-  size: 108, 81
-  orig: 114, 83
-  offset: 4, 0
-  index: -1
+bounds:167,169,216,161
+offsets:8,0,228,166
 14_angry
-  rotate: false
-  xy: 92, 191
-  size: 103, 95
-  orig: 109, 98
-  offset: 3, 0
-  index: -1
+bounds:1817,397,205,189
+offsets:6,0,218,196
 15_annoying
-  rotate: false
-  xy: 834, 34
-  size: 108, 79
-  orig: 112, 83
-  offset: 3, 0
-  index: -1
+bounds:1409,90,214,157
+offsets:7,0,224,165
 16_annoying_02
-  rotate: false
-  xy: 766, 194
-  size: 113, 88
-  orig: 113, 88
-  offset: 0, 0
-  index: -1
+bounds:1590,579,225,175
 17_shame
-  rotate: false
-  xy: 880, 114
-  size: 109, 82
-  orig: 112, 85
-  offset: 3, 0
-  index: -1
+bounds:1447,249,216,163
+offsets:7,0,223,170
 18_shame_02
-  rotate: 180
-  xy: 289, 133
-  size: 109, 83
-  orig: 114, 84
-  offset: 5, 0
-  index: -1
+bounds:979,266,218,165
+offsets:10,0,228,167
+rotate:180
 19_angry_03
-  rotate: true
-  xy: 930, 675
-  size: 108, 92
-  orig: 112, 92
-  offset: 4, 0
-  index: -1
+bounds:1831,588,215,184
+offsets:8,0,223,184
 20_surprise
-  rotate: false
-  xy: 698, 382
-  size: 109, 102
-  orig: 114, 102
-  offset: 3, 0
-  index: -1
+bounds:1413,854,217,203
+offsets:7,0,228,203
 21_angry_02
-  rotate: false
-  xy: 601, 69
-  size: 96, 91
-  orig: 96, 91
-  offset: 0, 0
-  index: -1
+bounds:391,157,191,182
+rotate:90
 22_smile_03
-  rotate: false
-  xy: 289, 49
-  size: 105, 83
-  orig: 108, 83
-  offset: 3, 0
-  index: -1
+bounds:1199,103,209,165
+offsets:6,0,216,165
 CH0169_1
-  rotate: 180
-  xy: 570, 533
-  size: 428, 451
-  orig: 764, 1156
-  offset: 146, 705
-  index: -1
+bounds:1137,1057,854,900
+offsets:293,1411,1528,2311
+rotate:180
 CH0169_2
-  rotate: false
-  xy: 2, 537
-  size: 649, 447
-  orig: 764, 1156
-  offset: 42, 272
-  index: -1
+bounds:2,1007,1298,950
+offsets:84,545,1528,2311
 CH0169_3
-  rotate: 180
-  xy: 2, 199
-  size: 763, 343
-  orig: 764, 1156
-  offset: 1, 0
-  index: -1
+bounds:2,331,1525,684
+offsets:3,1,1528,2311
+rotate:180
 Halo
-  rotate: false
-  xy: 809, 382
-  size: 213, 152
-  orig: 215, 162
-  offset: 0, 5
-  index: -1
+bounds:1620,755,426,303
+offsets:0,11,429,324
 eye close
-  rotate: false
-  xy: 880, 198
-  size: 114, 82
-  orig: 114, 82
-  offset: 0, 0
-  index: -1
+bounds:1528,414,228,163
 fronthair
-  rotate: false
-  xy: 896, 279
-  size: 126, 108
-  orig: 136, 108
-  offset: 4, 0
-  index: -1
+bounds:1338,643,251,215
+offsets:8,0,271,215
 glasses
-  rotate: true
-  xy: 82, 4
-  size: 103, 123
-  orig: 109, 128
-  offset: 4, 2
-  index: -1
+bounds:2,2,205,245
+offsets:8,5,218,255
+rotate:90

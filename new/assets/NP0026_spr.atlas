@@ -1,97 +1,33 @@
-
 NP0026_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00
-  rotate: false
-  xy: 21, 820
-  size: 24, 8
-  orig: 24, 8
-  offset: 0, 0
-  index: -1
+bounds:226,1958,57,18
 01
-  rotate: false
-  xy: 45, 830
-  size: 24, 8
-  orig: 24, 8
-  offset: 0, 0
-  index: -1
+bounds:167,1958,57,18
 eyeclose
-  rotate: false
-  xy: 45, 830
-  size: 24, 8
-  orig: 24, 8
-  offset: 0, 0
-  index: -1
+bounds:167,1958,57,18
 07
-  rotate: false
-  xy: 2, 787
-  size: 28, 23
-  orig: 28, 23
-  offset: 0, 0
-  index: -1
+bounds:2,1921,65,55
 08
-  rotate: false
-  xy: 2, 821
-  size: 18, 17
-  orig: 18, 17
-  offset: 0, 0
-  index: -1
+bounds:69,1937,42,39
 Gehenna_Student
-  rotate: false
-  xy: 331, 3
-  size: 419, 836
-  orig: 420, 1427
-  offset: 0, 1
-  index: -1
+bounds:778,2,990,1974
+offsets:0,3,992,3372
 Gehenna_Student _0
-  rotate: false
-  xy: 2, 196
-  size: 412, 642
-  orig: 420, 1427
-  offset: 7, 785
-  index: -1
+bounds:2,459,972,1517
+offsets:18,1855,992,3372
 Halo
-  rotate: false
-  xy: 2, 104
-  size: 199, 90
-  orig: 199, 90
-  offset: 0, 0
-  index: -1
+bounds:1150,1505,471,213
+rotate:90
 depressed
-  rotate: false
-  xy: 469, 447
-  size: 130, 129
-  orig: 130, 129
-  offset: 0, 0
-  index: -1
+bounds:1101,1199,307,304
 embarassed
-  rotate: false
-  xy: 2, 710
-  size: 52, 31
-  orig: 52, 31
-  offset: 0, 0
-  index: -1
+bounds:1365,1903,122,73
 respond
-  rotate: false
-  xy: 21, 829
-  size: 22, 9
-  orig: 22, 9
-  offset: 0, 0
-  index: -1
+bounds:113,1955,52,21
 serious
-  rotate: false
-  xy: 2, 778
-  size: 20, 7
-  orig: 20, 7
-  offset: 0, 0
-  index: -1
+bounds:344,1959,48,17
 smile
-  rotate: false
-  xy: 47, 822
-  size: 24, 7
-  orig: 24, 7
-  offset: 0, 0
-  index: -1
+bounds:285,1960,57,16

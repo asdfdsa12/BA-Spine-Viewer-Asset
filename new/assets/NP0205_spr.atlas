@@ -1,97 +1,40 @@
-
 NP0205_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 00
-  rotate: false
-  xy: 2, 649
-  size: 87, 76
-  orig: 87, 76
-  offset: 0, 0
-  index: -1
+bounds:909,1622,193,169
 01
-  rotate: false
-  xy: 2, 727
-  size: 87, 76
-  orig: 87, 76
-  offset: 0, 0
-  index: -1
+bounds:1053,1829,193,169
 02
-  rotate: false
-  xy: 2, 421
-  size: 86, 72
-  orig: 86, 72
-  offset: 0, 0
-  index: -1
+bounds:1302,1670,192,161
 03
-  rotate: false
-  xy: 2, 349
-  size: 87, 71
-  orig: 87, 71
-  offset: 0, 0
-  index: -1
+bounds:1447,1841,193,157
 04
-  rotate: false
-  xy: 2, 572
-  size: 88, 75
-  orig: 88, 75
-  offset: 0, 0
-  index: -1
+bounds:1104,1660,196,167
 05
-  rotate: false
-  xy: 2, 496
-  size: 89, 75
-  orig: 89, 75
-  offset: 0, 0
-  index: -1
+bounds:1248,1832,197,166
 06
-  rotate: false
-  xy: 153, 906
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
+bounds:1296,1495,196,164
 NP0009
-  rotate: 180
-  xy: 532, 3
-  size: 490, 662
-  orig: 699, 1263
-  offset: 209, 601
-  index: -1
+bounds:2,875,963,1456
+offsets:465,1350,1554,2806
+rotate:270
 NP0009_copy
-  rotate: false
-  xy: 2, 261
-  size: 699, 720
-  orig: 699, 1263
-  offset: 0, 0
-  index: -1
+bounds:2,2,1049,914
+offsets:505,685,1554,2806
+rotate:180
+NP0009_copy2
+bounds:1015,78,1549,761
+offsets:0,1,1554,2806
+rotate:90
 eyeclose
-  rotate: false
-  xy: 2, 805
-  size: 88, 76
-  orig: 88, 76
-  offset: 0, 0
-  index: -1
+bounds:711,1622,196,169
 halo_2
-  rotate: false
-  xy: 484, 650
-  size: 385, 95
-  orig: 385, 96
-  offset: 0, 1
-  index: -1
+bounds:2,1788,856,210
+offsets:0,4,856,214
 halo_3
-  rotate: false
-  xy: 90, 769
-  size: 165, 34
-  orig: 165, 34
-  offset: 0, 0
-  index: -1
+bounds:684,1793,367,76
 halo_5
-  rotate: false
-  xy: 2, 928
-  size: 73, 51
-  orig: 76, 54
-  offset: 1, 2
-  index: -1
+bounds:302,1673,161,113
+offsets:3,4,168,120

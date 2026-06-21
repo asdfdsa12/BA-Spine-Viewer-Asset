@@ -1,13 +1,6 @@
-
 NP0160_spr.png
-size: 512,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.21
 NP0160
-  rotate: false
-  xy: 2, 3
-  size: 456, 879
-  orig: 456, 879
-  offset: 0, 0
-  index: -1
+bounds:2,2,1049,2033

@@ -1,90 +1,35 @@
-
 NP0004_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_default
-  rotate: false
-  xy: 547, 888
-  size: 110, 99
-  orig: 110, 99
-  offset: 0, 0
-  index: -1
+bounds:1562,1075,260,234
 02_respond
-  rotate: false
-  xy: 547, 888
-  size: 110, 99
-  orig: 110, 99
-  offset: 0, 0
-  index: -1
+bounds:1562,1075,260,234
 01_normal
-  rotate: true
-  xy: 892, 877
-  size: 110, 94
-  orig: 110, 94
-  offset: 0, 0
-  index: -1
+bounds:1627,852,260,221
 03_smile
-  rotate: false
-  xy: 871, 648
-  size: 106, 87
-  orig: 106, 87
-  offset: 0, 0
-  index: -1
+bounds:961,626,251,207
+04.embarrassed
+bounds:957,425,250,199
 04_embarrassed
-  rotate: false
-  xy: 2, 609
-  size: 106, 85
-  orig: 106, 85
-  offset: 0, 0
-  index: -1
+bounds:1668,443,250,200
 05_serious
-  rotate: false
-  xy: 761, 701
-  size: 108, 87
-  orig: 108, 87
-  offset: 0, 0
-  index: -1
+bounds:1648,645,255,205
 06_shout
-  rotate: false
-  xy: 493, 701
-  size: 106, 91
-  orig: 106, 91
-  offset: 0, 0
-  index: -1
+bounds:1039,835,250,214
+eyeclose
+bounds:2,653,252,208
+offsets:4,3,259,214
 eyeclose_00
-  rotate: false
-  xy: 538, 793
-  size: 110, 94
-  orig: 110, 94
-  offset: 0, 0
-  index: -1
+bounds:2,863,260,221
 haircover
-  rotate: false
-  xy: 454, 618
-  size: 112, 80
-  orig: 112, 80
-  offset: 0, 0
-  index: -1
+bounds:2,461,265,190
 halo
-  rotate: true
-  xy: 742, 737
-  size: 251, 195
-  orig: 251, 195
-  offset: 0, 0
-  index: -1
+bounds:1500,1196,593,461
+rotate:90
 hanako_swim_00
-  rotate: false
-  xy: 2, 352
-  size: 544, 636
-  orig: 544, 637
-  offset: 0, 1
-  index: -1
+bounds:2,286,1286,1503
+offsets:0,2,1286,1505
 hanako_swim_01
-  rotate: false
-  xy: 397, 345
-  size: 544, 642
-  orig: 544, 642
-  offset: 0, 0
-  index: -1
+bounds:760,2,1286,1518

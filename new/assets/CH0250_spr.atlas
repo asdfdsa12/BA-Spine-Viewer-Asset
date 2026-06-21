@@ -1,174 +1,59 @@
-
 CH0250_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.175
 01_nomal
-  rotate: false
-  xy: 243, 46
-  size: 140, 92
-  orig: 140, 92
-  offset: 0, 0
-  index: -1
+bounds:593,56,298,197
 default
-  rotate: false
-  xy: 243, 46
-  size: 140, 92
-  orig: 140, 92
-  offset: 0, 0
-  index: -1
+bounds:593,56,298,197
 02_respond
-  rotate: false
-  xy: 101, 135
-  size: 139, 97
-  orig: 139, 97
-  offset: 0, 0
-  index: -1
+bounds:1450,201,297,207
 03_smile
-  rotate: false
-  xy: 525, 86
-  size: 139, 95
-  orig: 139, 95
-  offset: 0, 0
-  index: -1
+bounds:946,107,297,202
+rotate:90
 04_embarassed
-  rotate: false
-  xy: 667, 75
-  size: 139, 87
-  orig: 139, 87
-  offset: 0, 0
-  index: -1
+bounds:891,958,297,187
+rotate:90
 05_serious
-  rotate: true
-  xy: 2, 88
-  size: 140, 95
-  orig: 140, 95
-  offset: 0, 0
-  index: -1
+bounds:1150,202,298,203
 06_depressed
-  rotate: false
-  xy: 837, 181
-  size: 139, 101
-  orig: 139, 101
-  offset: 0, 0
-  index: -1
+bounds:2,537,297,215
+rotate:90
 07
-  rotate: false
-  xy: 808, 83
-  size: 135, 96
-  orig: 135, 96
-  offset: 0, 0
-  index: -1
+bounds:302,85,289,204
 08
-  rotate: true
-  xy: 809, 588
-  size: 140, 110
-  orig: 140, 110
-  offset: 0, 0
-  index: -1
+bounds:2,836,298,235
+rotate:90
 09
-  rotate: true
-  xy: 863, 299
-  size: 140, 110
-  orig: 140, 110
-  offset: 0, 0
-  index: -1
+bounds:1723,1458,298,235
 10
-  rotate: false
-  xy: 525, 182
-  size: 140, 105
-  orig: 140, 105
-  offset: 0, 0
-  index: -1
+bounds:1769,496,298,224
+rotate:90
 11
-  rotate: false
-  xy: 764, 440
-  size: 113, 145
-  orig: 113, 145
-  offset: 0, 0
-  index: -1
+bounds:1761,1695,241,310
 12
-  rotate: false
-  xy: 667, 165
-  size: 139, 100
-  orig: 139, 100
-  offset: 0, 0
-  index: -1
+bounds:333,291,297,213
 13
-  rotate: false
-  xy: 243, 141
-  size: 139, 98
-  orig: 139, 98
-  offset: 0, 0
-  index: -1
+bounds:1749,201,297,209
 14
-  rotate: true
-  xy: 860, 742
-  size: 135, 95
-  orig: 135, 95
-  offset: 0, 0
-  index: -1
+bounds:2,71,288,203
 15
-  rotate: false
-  xy: 840, 878
-  size: 135, 100
-  orig: 135, 100
-  offset: 0, 0
-  index: -1
+bounds:632,255,288,213
 16
-  rotate: false
-  xy: 384, 147
-  size: 140, 98
-  orig: 140, 98
-  offset: 0, 0
-  index: -1
+bounds:2,276,298,210
 17
-  rotate: true
-  xy: 384, 5
-  size: 140, 90
-  orig: 140, 90
-  offset: 0, 0
-  index: -1
+bounds:1450,6,298,193
 18
-  rotate: false
-  xy: 99, 41
-  size: 140, 92
-  orig: 140, 92
-  offset: 0, 0
-  index: -1
+bounds:1150,3,298,196
 CH250
-  rotate: false
-  xy: 370, 266
-  size: 488, 712
-  orig: 488, 1429
-  offset: 0, 717
-  index: -1
+bounds:2,469,1042,1536
+offsets:0,1518,1042,3054
 CH2502
-  rotate: false
-  xy: 2, 229
-  size: 406, 749
-  orig: 488, 1429
-  offset: 42, 0
-  index: -1
+bounds:911,405,866,1600
+offsets:90,0,1042,3054
 eyeclose
-  rotate: true
-  xy: 879, 451
-  size: 135, 92
-  orig: 135, 92
-  offset: 0, 0
-  index: -1
+bounds:1750,2,288,197
 halo_01
-  rotate: true
-  xy: 732, 273
-  size: 165, 130
-  orig: 165, 130
-  offset: 0, 0
-  index: -1
+bounds:1692,797,353,277
 halo_02
-  rotate: true
-  xy: 359, 429
-  size: 177, 142
-  orig: 177, 142
-  offset: 0, 0
-  index: -1
+bounds:1669,1076,377,303

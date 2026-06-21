@@ -1,97 +1,33 @@
-
 CH0160_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.29
 01_normal
-  rotate: false
-  xy: 538, 440
-  size: 112, 71
-  orig: 112, 71
-  offset: 0, 0
-  index: -1
+bounds:2,274,289,182
 02_respond
-  rotate: false
-  xy: 586, 366
-  size: 112, 72
-  orig: 112, 72
-  offset: 0, 0
-  index: -1
+bounds:2,1378,289,184
 03_smile
-  rotate: false
-  xy: 2, 451
-  size: 112, 70
-  orig: 112, 70
-  offset: 0, 0
-  index: -1
+bounds:2,93,289,179
 04_embarrassed
-  rotate: false
-  xy: 611, 652
-  size: 95, 68
-  orig: 95, 68
-  offset: 0, 0
-  index: -1
+bounds:293,1317,245,175
+rotate:90
 05_serious
-  rotate: false
-  xy: 560, 585
-  size: 112, 66
-  orig: 112, 66
-  offset: 0, 0
-  index: -1
+bounds:293,41,288,169
 06_depressed
-  rotate: false
-  xy: 601, 87
-  size: 111, 66
-  orig: 111, 66
-  offset: 0, 0
-  index: -1
+bounds:1522,10,285,170
 CH0160
-  rotate: true
-  xy: 2, 3
-  size: 446, 711
-  orig: 636, 1159
-  offset: 190, 0
-  index: -1
+bounds:2,2,1641,1826
+offsets:0,1163,1641,2989
 CH0160_0
-  rotate: false
-  xy: 2, 333
-  size: 636, 476
-  orig: 636, 1159
-  offset: 0, 683
-  index: -1
+bounds:1415,353,631,1434
+offsets:683,0,1641,2989
 default
-  rotate: false
-  xy: 508, 512
-  size: 112, 71
-  orig: 112, 71
-  offset: 0, 0
-  index: -1
+bounds:2,1194,289,182
 eyeclose
-  rotate: false
-  xy: 601, 15
-  size: 95, 71
-  orig: 95, 71
-  offset: 0, 0
-  index: -1
+bounds:363,1646,245,182
 glasses_default
-  rotate: false
-  xy: 2, 769
-  size: 127, 40
-  orig: 127, 40
-  offset: 0, 0
-  index: -1
+bounds:610,1726,328,102
 halo2
-  rotate: false
-  xy: 397, 47
-  size: 202, 66
-  orig: 202, 66
-  offset: 0, 0
-  index: -1
+bounds:1424,182,521,169
 object_fronthair
-  rotate: false
-  xy: 256, 20
-  size: 139, 103
-  orig: 139, 103
-  offset: 0, 0
-  index: -1
+bounds:2,1564,359,264

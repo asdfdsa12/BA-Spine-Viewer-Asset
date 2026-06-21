@@ -1,153 +1,58 @@
-
 NP0013_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.17
 00
-  rotate: false
-  xy: 535, 88
-  size: 104, 86
-  orig: 104, 86
-  offset: 0, 0
-  index: -1
+bounds:1804,128,242,201
 01
-  rotate: false
-  xy: 535, 88
-  size: 104, 86
-  orig: 104, 86
-  offset: 0, 0
-  index: -1
+bounds:1804,128,242,201
 02
-  rotate: false
-  xy: 2, 85
-  size: 104, 86
-  orig: 104, 86
-  offset: 0, 0
-  index: -1
+bounds:1846,558,242,200
+rotate:90
 03
-  rotate: false
-  xy: 429, 154
-  size: 104, 88
-  orig: 104, 88
-  offset: 0, 0
-  index: -1
+bounds:1795,1523,242,206
+rotate:90
 04
-  rotate: false
-  xy: 218, 154
-  size: 104, 94
-  orig: 104, 94
-  offset: 0, 0
-  index: -1
+bounds:1205,1577,242,220
 05
-  rotate: false
-  xy: 639, 3
-  size: 104, 80
-  orig: 104, 80
-  offset: 0, 0
-  index: -1
+bounds:2,60,242,186
+rotate:90
 06
-  rotate: false
-  xy: 218, 66
-  size: 102, 86
-  orig: 102, 86
-  offset: 0, 0
-  index: -1
+bounds:1066,78,239,201
 07
-  rotate: true
-  xy: 703, 652
-  size: 105, 86
-  orig: 105, 86
-  offset: 0, 0
-  index: -1
+bounds:1292,1277,246,201
 08
-  rotate: true
-  xy: 703, 867
-  size: 104, 87
-  orig: 104, 87
-  offset: 0, 0
-  index: -1
+bounds:1540,1274,242,204
 09
-  rotate: false
-  xy: 640, 85
-  size: 104, 86
-  orig: 104, 86
-  offset: 0, 0
-  index: -1
+bounds:822,128,242,200
 10
-  rotate: false
-  xy: 324, 167
-  size: 104, 96
-  orig: 104, 96
-  offset: 0, 0
-  index: -1
+bounds:1795,1767,242,225
+rotate:90
 11
-  rotate: false
-  xy: 324, 79
-  size: 102, 87
-  orig: 102, 87
-  offset: 0, 0
-  index: -1
+bounds:2,304,239,202
+rotate:90
 12
-  rotate: false
-  xy: 107, 34
-  size: 105, 83
-  orig: 105, 83
-  offset: 0, 0
-  index: -1
+bounds:333,2,246,193
 13
-  rotate: false
-  xy: 532, 5
-  size: 105, 81
-  orig: 105, 81
-  offset: 0, 0
-  index: -1
+bounds:1854,1027,246,190
+rotate:90
 14
-  rotate: true
-  xy: 703, 759
-  size: 105, 86
-  orig: 105, 86
-  offset: 0, 0
-  index: -1
+bounds:1795,1275,246,201
+rotate:90
 15
-  rotate: false
-  xy: 114, 118
-  size: 102, 88
-  orig: 102, 88
-  offset: 0, 0
-  index: -1
+bounds:2,545,239,206
+rotate:90
 Face_01
-  rotate: 270
-  xy: 54, 173
-  size: 483, 714
-  orig: 633, 1241
-  offset: 150, 0
-  index: -1
+bounds:191,111,1128,1670
+offsets:353,0,1481,2904
+rotate:270
 Face_02
-  rotate: false
-  xy: 2, 389
-  size: 618, 596
-  orig: 633, 1241
-  offset: 0, 645
-  index: -1
+bounds:2,615,1446,1394
+offsets:0,1510,1481,2904
 Halo_01
-  rotate: true
-  xy: 2, 461
-  size: 141, 214
-  orig: 141, 214
-  offset: 0, 0
-  index: -1
+bounds:2,786,329,500
+rotate:90
 Halo_02
-  rotate: false
-  xy: 554, 696
-  size: 147, 226
-  orig: 147, 226
-  offset: 0, 0
-  index: -1
+bounds:1449,1480,344,529
 eyeclose
-  rotate: false
-  xy: 428, 66
-  size: 102, 86
-  orig: 102, 86
-  offset: 0, 0
-  index: -1
+bounds:581,93,239,201

@@ -1,111 +1,41 @@
-
 CH0152_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.9
 01_normal
-  rotate: false
-  xy: 564, 670
-  size: 118, 87
-  orig: 118, 87
-  offset: 0, 0
-  index: -1
+bounds:1825,1861,194,142
 02_respond
-  rotate: false
-  xy: 2, 667
-  size: 118, 90
-  orig: 118, 90
-  offset: 0, 0
-  index: -1
+bounds:831,1856,194,147
 03_smile
-  rotate: true
-  xy: 1884, 637
-  size: 119, 84
-  orig: 119, 84
-  offset: 0, 0
-  index: -1
+bounds:1443,1518,195,138
 04_embarrassed
-  rotate: false
-  xy: 122, 667
-  size: 118, 90
-  orig: 118, 90
-  offset: 0, 0
-  index: -1
+bounds:1027,1856,193,147
 05_serious
-  rotate: true
-  xy: 1796, 639
-  size: 117, 86
-  orig: 117, 86
-  offset: 0, 0
-  index: -1
+bounds:1640,1434,192,140
 06_depressed
-  rotate: false
-  xy: 1178, 671
-  size: 118, 86
-  orig: 118, 86
-  offset: 0, 0
-  index: -1
+bounds:1792,1576,194,140
 07
-  rotate: false
-  xy: 1058, 584
-  size: 111, 85
-  orig: 111, 85
-  offset: 0, 0
-  index: -1
+bounds:1617,1293,181,139
 08
-  rotate: false
-  xy: 1178, 581
-  size: 111, 89
-  orig: 111, 89
-  offset: 0, 0
-  index: -1
+bounds:1834,1429,181,145
 09
-  rotate: false
-  xy: 684, 670
-  size: 118, 86
-  orig: 118, 86
-  offset: 0, 0
-  index: -1
+bounds:1596,1658,194,141
 ch0152
-  rotate: 180
-  xy: 2, 13
-  size: 1069, 744
-  orig: 1069, 1432
-  offset: 0, 688
-  index: -1
-ch0152_1
-  rotate: false
-  xy: 1010, 3
-  size: 837, 754
-  orig: 1069, 1432
-  offset: 181, 0
-  index: -1
+bounds:2,780,1749,1223
+offsets:0,1121,1749,2344
+ch0152C
+bounds:2,2,1409,1046
+offsets:267,522,1749,2344
+rotate:180
+ch0152C2
+bounds:1422,222,823,624
+offsets:793,0,1749,2344
+rotate:90
 default
-  rotate: false
-  xy: 1058, 670
-  size: 118, 86
-  orig: 118, 86
-  offset: 0, 0
-  index: -1
+bounds:1813,1718,194,141
 eyeclose
-  rotate: false
-  xy: 684, 582
-  size: 111, 87
-  orig: 111, 87
-  offset: 0, 0
-  index: -1
+bounds:2,1428,181,142
 front hair
-  rotate: false
-  xy: 1802, 514
-  size: 139, 124
-  orig: 139, 124
-  offset: 0, 0
-  index: -1
+bounds:1596,1800,227,203
 halo
-  rotate: false
-  xy: 845, 554
-  size: 210, 202
-  orig: 210, 202
-  offset: 0, 0
-  index: -1
+bounds:1250,1672,344,331

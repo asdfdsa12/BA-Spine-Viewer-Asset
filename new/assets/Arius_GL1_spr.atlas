@@ -1,27 +1,12 @@
-
 Arius_GL1_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.2
 Arius_GL1
-  rotate: false
-  xy: 2, 200
-  size: 455, 649
-  orig: 455, 1086
-  offset: 0, 0
-  index: -1
+bounds:2,2,1091,1557
+offsets:0,0,1091,2605
 Arius_GL2
-  rotate: false
-  xy: 420, 362
-  size: 428, 487
-  orig: 455, 1086
-  offset: 7, 599
-  index: -1
+bounds:1002,391,1025,1168
+offsets:17,1437,1091,2605
 Halo
-  rotate: false
-  xy: 452, 241
-  size: 188, 120
-  orig: 188, 120
-  offset: 0, 0
-  index: -1
+bounds:1079,103,451,287

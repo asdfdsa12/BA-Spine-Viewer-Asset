@@ -1,202 +1,63 @@
-
 CH0071_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
 00_default
-  rotate: false
-  xy: 240, 178
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:2,464,232,165
 01_normal
-  rotate: false
-  xy: 238, 263
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:1750,501,232,165
 02_respond
-  rotate: false
-  xy: 240, 93
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:1730,668,232,165
 03_smile
-  rotate: false
-  xy: 358, 258
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:1680,835,232,165
 04_embarassed
-  rotate: false
-  xy: 121, 264
-  size: 116, 85
-  orig: 116, 85
-  offset: 0, 0
-  index: -1
+bounds:1516,1226,231,170
 05_serious
-  rotate: false
-  xy: 785, 940
-  size: 116, 82
-  orig: 116, 82
-  offset: 0, 0
-  index: -1
+bounds:935,428,231,164
 06_depressed
-  rotate: false
-  xy: 454, 696
-  size: 116, 140
-  orig: 116, 140
-  offset: 0, 0
-  index: -1
+bounds:1583,1683,232,280
 07
-  rotate: false
-  xy: 2, 270
-  size: 117, 84
-  orig: 117, 84
-  offset: 0, 0
-  index: -1
+bounds:1751,1338,234,168
 08
-  rotate: false
-  xy: 476, 254
-  size: 116, 82
-  orig: 116, 82
-  offset: 0, 0
-  index: -1
+bounds:702,437,231,164
 09
-  rotate: false
-  xy: 457, 554
-  size: 116, 140
-  orig: 116, 140
-  offset: 0, 0
-  index: -1
+bounds:1349,1683,232,280
 10_default eye on
-  rotate: false
-  xy: 746, 674
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:1814,1002,232,165
 11_normal eye on
-  rotate: false
-  xy: 746, 674
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:1814,1002,232,165
 12_respond eye on
-  rotate: false
-  xy: 758, 787
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:1580,1002,232,165
 13_embarassed eye on
-  rotate: false
-  xy: 121, 177
-  size: 116, 85
-  orig: 116, 85
-  offset: 0, 0
-  index: -1
+bounds:906,1253,231,170
 14_serious_eye_on
-  rotate: false
-  xy: 358, 173
-  size: 116, 82
-  orig: 116, 82
-  offset: 0, 0
-  index: -1
+bounds:469,446,231,164
 15
-  rotate: false
-  xy: 2, 881
-  size: 117, 142
-  orig: 117, 142
-  offset: 0, 0
-  index: -1
+bounds:2,1680,233,283
 16
-  rotate: false
-  xy: 667, 871
-  size: 117, 87
-  orig: 117, 87
-  offset: 0, 0
-  index: -1
+bounds:1751,1508,233,173
 17
-  rotate: false
-  xy: 121, 92
-  size: 117, 84
-  orig: 117, 84
-  offset: 0, 0
-  index: -1
+bounds:1749,1169,234,167
 18
-  rotate: false
-  xy: 2, 184
-  size: 117, 84
-  orig: 117, 84
-  offset: 0, 0
-  index: -1
+bounds:902,1425,234,168
 18_eye_on
-  rotate: false
-  xy: 792, 505
-  size: 116, 82
-  orig: 116, 82
-  offset: 0, 0
-  index: -1
+bounds:236,455,231,164
 19
-  rotate: false
-  xy: 2, 98
-  size: 117, 84
-  orig: 117, 84
-  offset: 0, 0
-  index: -1
+bounds:2,1510,234,168
 20
-  rotate: false
-  xy: 2, 738
-  size: 117, 142
-  orig: 117, 142
-  offset: 0, 0
-  index: -1
+bounds:1280,1398,233,283
 21
-  rotate: false
-  xy: 639, 728
-  size: 117, 142
-  orig: 117, 142
-  offset: 0, 0
-  index: -1
+bounds:1515,1398,234,283
 CH0071
-  rotate: false
-  xy: 2, 337
-  size: 788, 686
-  orig: 788, 1100
-  offset: 0, 0
-  index: -1
+bounds:2,592,1576,1371
+offsets:0,0,1576,2200
 CH00713
-  rotate: 180
-  xy: 518, 39
-  size: 505, 449
-  orig: 788, 1100
-  offset: 103, 651
-  index: -1
+bounds:1038,2,1008,897
+offsets:207,1303,1576,2200
+rotate:180
 eyeclose
-  rotate: false
-  xy: 783, 589
-  size: 116, 83
-  orig: 116, 83
-  offset: 0, 0
-  index: -1
+bounds:909,1086,232,165
 front hair
-  rotate: false
-  xy: 2, 698
-  size: 83, 68
-  orig: 108, 70
-  offset: 0, 0
-  index: -1
+bounds:1817,1828,165,135
+offsets:0,0,216,139
 halo
-  rotate: false
-  xy: 451, 829
-  size: 225, 194
-  orig: 225, 194
-  offset: 0, 0
-  index: -1
+bounds:899,1576,449,387

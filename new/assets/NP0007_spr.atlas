@@ -1,132 +1,63 @@
-
 NP0007_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.35
 00_default
-  rotate: 270
-  xy: 303, 424
-  size: 156, 89
-  orig: 174, 97
-  offset: 0, 8
-  index: -1
+bounds:2,361,420,238
+offsets:0,23,468,261
+rotate:90
 01_normal
-  rotate: true
-  xy: 2, 730
-  size: 134, 95
-  orig: 174, 105
-  offset: 0, 10
-  index: -1
+bounds:1702,1372,360,253
+offsets:0,29,468,282
+rotate:90
 02_respond
-  rotate: true
-  xy: 266, 540
-  size: 139, 94
-  orig: 173, 108
-  offset: 0, 14
-  index: -1
+bounds:1482,433,374,254
+offsets:0,38,466,292
 03_smile
-  rotate: true
-  xy: 393, 519
-  size: 96, 77
-  orig: 96, 77
-  offset: 0, 0
-  index: -1
+bounds:790,1473,259,208
+rotate:90
 04_embarassed
-  rotate: true
-  xy: 2, 866
-  size: 144, 103
-  orig: 174, 108
-  offset: 0, 5
-  index: -1
+bounds:1452,689,387,276
+offsets:0,16,468,292
 05_serious
-  rotate: 270
-  xy: 302, 3
-  size: 128, 93
-  orig: 174, 107
-  offset: 0, 14
-  index: -1
+bounds:1702,182,344,251
+offsets:0,38,468,289
 06_depressed
-  rotate: 270
-  xy: 331, 163
-  size: 144, 82
-  orig: 174, 97
-  offset: 0, 15
-  index: -1
+bounds:49,204,387,221
+offsets:0,41,468,262
 07
-  rotate: true
-  xy: 350, 891
-  size: 132, 85
-  orig: 174, 95
-  offset: 0, 10
-  index: -1
+bounds:658,160,356,230
+offsets:0,27,468,257
 08
-  rotate: true
-  xy: 393, 309
-  size: 136, 66
-  orig: 136, 66
-  offset: 0, 0
-  index: -1
+bounds:1841,499,366,177
+rotate:90
 09
-  rotate: true
-  xy: 2, 594
-  size: 136, 73
-  orig: 136, 73
-  offset: 0, 0
-  index: -1
+bounds:1013,174,366,196
 10
-  rotate: true
-  xy: 252, 679
-  size: 147, 135
-  orig: 174, 135
-  offset: 0, 0
-  index: -1
+bounds:1651,866,395,365
+offsets:0,0,468,365
 11
-  rotate: true
-  xy: 415, 202
-  size: 105, 74
-  orig: 105, 74
-  offset: 0, 0
-  index: -1
+bounds:2,2,282,200
 12
-  rotate: true
-  xy: 397, 59
-  size: 103, 75
-  orig: 103, 75
-  offset: 0, 0
-  index: -1
+bounds:437,47,277,201
+rotate:90
 eyeclose
-  rotate: 270
-  xy: 359, 618
-  size: 112, 96
-  orig: 174, 105
-  offset: 0, 9
-  index: -1
+bounds:1397,115,303,258
+offsets:0,24,468,282
 fronthair
-  rotate: true
-  xy: 389, 775
-  size: 114, 70
-  orig: 114, 70
-  offset: 0, 0
-  index: -1
+bounds:43,821,298,181
+offsets:4,4,306,189
+rotate:90
 halo
-  rotate: true
-  xy: 248, 827
-  size: 195, 100
-  orig: 195, 100
-  offset: 0, 0
-  index: -1
+bounds:1438,1215,517,262
+offsets:4,4,525,270
+rotate:90
 koharu_gym
-  rotate: false
-  xy: 2, 37
-  size: 382, 985
-  orig: 382, 985
-  offset: 0, 0
-  index: -1
+bounds:2,325,1031,1407
+offsets:0,1253,1031,2660
+koharu_gymC
+bounds:925,371,574,1361
+offsets:153,0,1031,2660
 neck_cover
-  rotate: false
-  xy: 389, 736
-  size: 74, 37
-  orig: 74, 37
-  offset: 0, 0
-  index: -1
+bounds:1854,1288,192,91
+offsets:4,4,200,99

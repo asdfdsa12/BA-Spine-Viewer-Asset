@@ -1,125 +1,49 @@
-
 NP0178_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 03_smile
-  rotate: true
-  xy: 697, 659
-  size: 136, 80
-  orig: 136, 80
-  offset: 0, 0
-  index: -1
+bounds:748,195,304,178
 04_embarassed
-  rotate: false
-  xy: 140, 42
-  size: 136, 79
-  orig: 136, 79
-  offset: 0, 0
-  index: -1
+bounds:1054,45,304,176
 05_serious
-  rotate: true
-  xy: 712, 211
-  size: 136, 82
-  orig: 136, 82
-  offset: 0, 0
-  index: -1
+bounds:713,398,304,184
 06_depressed
-  rotate: false
-  xy: 473, 34
-  size: 136, 78
-  orig: 136, 78
-  offset: 0, 0
-  index: -1
+bounds:1360,46,303,175
 07_serious_2
-  rotate: false
-  xy: 673, 818
-  size: 136, 135
-  orig: 136, 135
-  offset: 0, 0
-  index: -1
+bounds:1510,1040,304,301
+rotate:90
 08_angry
-  rotate: false
-  xy: 467, 856
-  size: 136, 97
-  orig: 136, 97
-  offset: 0, 0
-  index: -1
+bounds:1518,822,303,216
 09_eye close_2
-  rotate: false
-  xy: 611, 21
-  size: 126, 81
-  orig: 126, 81
-  offset: 0, 0
-  index: -1
+bounds:1813,1317,281,180
+rotate:90
 1
-  rotate: true
-  xy: 391, 80
-  size: 136, 80
-  orig: 136, 80
-  offset: 0, 0
-  index: -1
+bounds:1631,223,304,178
 10_angry_2
-  rotate: true
-  xy: 2, 819
-  size: 133, 85
-  orig: 133, 85
-  offset: 0, 0
-  index: -1
+bounds:1580,403,298,190
 11_depressed_2
-  rotate: false
-  xy: 278, 3
-  size: 133, 76
-  orig: 133, 76
-  offset: 0, 0
-  index: -1
+bounds:1665,52,298,169
 2
-  rotate: true
-  xy: 703, 521
-  size: 136, 80
-  orig: 136, 80
-  offset: 0, 0
-  index: -1
+bounds:1019,375,304,179
 NP0178
-  rotate: 180
-  xy: 416, 103
-  size: 328, 598
-  orig: 463, 1399
-  offset: 100, 801
-  index: -1
-NP01789
-  rotate: false
-  xy: 2, 114
-  size: 463, 839
-  orig: 463, 1399
-  offset: 0, 0
-  index: -1
+bounds:873,531,706,1373
+offsets:241,1750,1034,3123
+rotate:180
+NP0178C
+bounds:64,2,853,1902
+offsets:181,0,1034,3123
+NP0178C2
+bounds:2,599,275,1305
+offsets:0,342,1034,3123
 d
-  rotate: true
-  xy: 746, 73
-  size: 136, 80
-  orig: 136, 80
-  offset: 0, 0
-  index: -1
+bounds:1754,1600,304,178
+rotate:90
 fronthair
-  rotate: false
-  xy: 658, 419
-  size: 151, 101
-  orig: 151, 101
-  offset: 0, 0
-  index: -1
+bounds:1548,595,338,225
+rotate:180
 halo
-  rotate: false
-  xy: 444, 703
-  size: 250, 143
-  orig: 250, 143
-  offset: 0, 0
-  index: -1
+bounds:1433,1345,559,319
+rotate:270
 n
-  rotate: false
-  xy: 2, 54
-  size: 136, 80
-  orig: 136, 80
-  offset: 0, 0
-  index: -1
+bounds:1325,223,304,178

@@ -1,125 +1,45 @@
-
 CH0194_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.06
 00_default
-  rotate: false
-  xy: 110, 595
-  size: 106, 79
-  orig: 106, 79
-  offset: 0, 0
-  index: -1
+bounds:993,1558,234,175
 00_eye close2
-  rotate: false
-  xy: 618, 581
-  size: 106, 73
-  orig: 106, 73
-  offset: 0, 0
-  index: -1
+bounds:1747,30,234,162
 01_normal
-  rotate: false
-  xy: 621, 656
-  size: 106, 73
-  orig: 106, 73
-  offset: 0, 0
-  index: -1
+bounds:2,637,234,162
+rotate:90
 02_respond
-  rotate: false
-  xy: 2, 431
-  size: 106, 76
-  orig: 106, 76
-  offset: 0, 0
-  index: -1
+bounds:1275,157,234,167
 03_smile
-  rotate: false
-  xy: 403, 654
-  size: 102, 79
-  orig: 102, 79
-  offset: 0, 0
-  index: -1
+bounds:996,736,226,175
 04_embarassed
-  rotate: false
-  xy: 110, 517
-  size: 106, 76
-  orig: 106, 76
-  offset: 0, 0
-  index: -1
+bounds:999,948,234,169
 05_serious
-  rotate: false
-  xy: 2, 282
-  size: 106, 69
-  orig: 106, 69
-  offset: 0, 0
-  index: -1
+bounds:1251,2,234,153
 06_depressed
-  rotate: false
-  xy: 706, 804
-  size: 101, 68
-  orig: 101, 68
-  offset: 0, 0
-  index: -1
+bounds:1487,6,224,149
 07_shame
-  rotate: false
-  xy: 2, 354
-  size: 106, 75
-  orig: 106, 75
-  offset: 0, 0
-  index: -1
+bounds:1511,159,234,165
 08_angry
-  rotate: false
-  xy: 2, 592
-  size: 106, 82
-  orig: 106, 82
-  offset: 0, 0
-  index: -1
+bounds:285,638,234,181
 09_surprised
-  rotate: false
-  xy: 2, 508
-  size: 106, 82
-  orig: 106, 82
-  offset: 0, 0
-  index: -1
+bounds:2,1231,234,181
 10_smile_02
-  rotate: false
-  xy: 625, 732
-  size: 106, 71
-  orig: 106, 71
-  offset: 0, 0
-  index: -1
+bounds:2,1073,234,156
 CH0194
-  rotate: false
-  xy: 585, 3
-  size: 436, 638
-  orig: 561, 1029
-  offset: 58, 0
-  index: -1
+bounds:1075,325,953,1408
+offsets:138,0,1239,2273
+rotate:180
 CH01948
-  rotate: 180
-  xy: 122, 195
-  size: 561, 480
-  orig: 561, 1029
-  offset: 0, 549
-  index: -1
+bounds:2,679,1239,1054
+offsets:0,1219,1239,2273
 diorama
-  rotate: false
-  xy: 2, 458
-  size: 720, 555
-  orig: 720, 555
-  offset: 0, 0
-  index: -1
+bounds:2,89,1272,980
+rotate:180
 frothair
-  rotate: false
-  xy: 724, 931
-  size: 122, 81
-  orig: 122, 81
-  offset: 0, 0
-  index: -1
+bounds:1243,920,269,179
+rotate:270
 halo
-  rotate: false
-  xy: 2, 155
-  size: 230, 129
-  orig: 230, 129
-  offset: 0, 0
-  index: -1
+bounds:1650,194,509,284
+rotate:90

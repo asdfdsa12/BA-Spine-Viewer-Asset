@@ -1,153 +1,68 @@
-
 CH9997_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.22
 01_normal
-  rotate: false
-  xy: 874, 279
-  size: 131, 104
-  orig: 131, 104
-  offset: 0, 0
-  index: -1
+bounds:1231,291,276,218
 default
-  rotate: false
-  xy: 874, 279
-  size: 131, 104
-  orig: 131, 104
-  offset: 0, 0
-  index: -1
+bounds:1231,291,276,218
 02_respond
-  rotate: false
-  xy: 167, 843
-  size: 163, 107
-  orig: 163, 107
-  offset: 0, 0
-  index: -1
+bounds:1527,777,343,226
 03_smile
-  rotate: false
-  xy: 864, 385
-  size: 131, 107
-  orig: 131, 107
-  offset: 0, 0
-  index: -1
+bounds:1817,1146,276,226
+rotate:90
 04_embarrass
-  rotate: false
-  xy: 581, 288
-  size: 131, 106
-  orig: 131, 106
-  offset: 0, 0
-  index: -1
+bounds:261,371,276,223
 05_serious
-  rotate: false
-  xy: 697, 163
-  size: 131, 102
-  orig: 131, 102
-  offset: 0, 0
-  index: -1
+bounds:1787,240,276,215
+rotate:90
 06_depressed
-  rotate: false
-  xy: 869, 613
-  size: 122, 121
-  orig: 122, 121
-  offset: 0, 0
-  index: -1
+bounds:1787,518,257,254
+rotate:90
 07
-  rotate: false
-  xy: 2, 403
-  size: 122, 117
-  orig: 122, 117
-  offset: 0, 0
-  index: -1
+bounds:2,387,257,245
 08
-  rotate: false
-  xy: 872, 494
-  size: 122, 117
-  orig: 122, 117
-  offset: 0, 0
-  index: -1
+bounds:539,370,257,245
 09
-  rotate: true
-  xy: 459, 134
-  size: 131, 95
-  orig: 131, 95
-  offset: 0, 0
-  index: -1
+bounds:2,170,276,199
 10
-  rotate: false
-  xy: 890, 735
-  size: 131, 131
-  orig: 131, 131
-  offset: 0, 0
-  index: -1
+bounds:1509,499,276,276
 11
-  rotate: false
-  xy: 876, 174
-  size: 131, 103
-  orig: 131, 103
-  offset: 0, 0
-  index: -1
+bounds:1509,280,276,217
 E_hair
-  rotate: 180
-  xy: 196, 3
-  size: 271, 174
-  orig: 271, 174
-  offset: 0, 0
-  index: -1
+bounds:263,2,570,366
+rotate:180
 Front_Hair
-  rotate: 180
-  xy: 555, 88
-  size: 155, 92
-  orig: 155, 92
-  offset: 0, 0
-  index: -1
+bounds:813,1814,327,194
 Halo
-  rotate: false
-  xy: 378, 809
-  size: 240, 142
-  orig: 240, 142
-  offset: 0, 0
-  index: -1
+bounds:1518,1005,505,298
+rotate:90
 Light_Halo3
-  rotate: false
-  xy: 2, 191
-  size: 244, 139
-  orig: 244, 139
-  offset: 0, 0
-  index: -1
+bounds:883,458,514,292
+rotate:180
 R_arm_Weapon_ON
-  rotate: false
-  xy: 626, 380
-  size: 162, 279
-  orig: 206, 606
-  offset: 0, 327
-  index: -1
+bounds:1598,1423,340,585
+offsets:0,689,434,1274
 R_arm_Weapon_ON_1
-  rotate: 180
-  xy: 124, 124
-  size: 136, 120
-  orig: 206, 606
-  offset: 70, 0
-  index: -1
+bounds:830,43,287,252
+offsets:147,0,434,1274
 eyeclose
-  rotate: false
-  xy: 564, 183
-  size: 131, 104
-  orig: 131, 104
-  offset: 0, 0
-  index: -1
+bounds:798,297,276,218
 misaki
-  rotate: false
-  xy: 2, 179
-  size: 586, 772
-  orig: 634, 1301
-  offset: 0, 529
-  index: -1
+bounds:860,1037,812,971
+offsets:292,1765,1333,2736
 misaki_1
-  rotate: 180
-  xy: 477, 267
-  size: 472, 684
-  orig: 634, 1301
-  offset: 162, 0
-  index: -1
+bounds:190,1015,993,853
+offsets:214,1218,1333,2736
+rotate:270
+misaki_2
+bounds:116,581,332,868
+offsets:0,1112,1333,2736
+rotate:90
+misaki_3
+bounds:2,738,220,1270
+offsets:492,14,1333,2736
+misaki_4
+bounds:198,631,547,1327
+offsets:786,0,1333,2736
+rotate:270

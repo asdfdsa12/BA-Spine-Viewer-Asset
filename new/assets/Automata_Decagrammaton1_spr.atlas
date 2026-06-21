@@ -1,27 +1,12 @@
-
 Automata_Decagrammaton1_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
 Automata_Decagrammaton1
-  rotate: false
-  xy: 2, 394
-  size: 665, 589
-  orig: 666, 1223
-  offset: 0, 634
-  index: -1
+bounds:2,783,1330,1177
+offsets:0,1268,1332,2445
 Automata_Decagrammaton12
-  rotate: true
-  xy: 2, 3
-  size: 470, 659
-  orig: 666, 1223
-  offset: 195, 1
-  index: -1
+bounds:2,2,939,1317
+offsets:390,2,1332,2445
+rotate:90
 Automata_Decagrammaton1_2
-  rotate: false
-  xy: 2, 733
-  size: 144, 94
-  orig: 144, 94
-  offset: 0, 0
-  index: -1
+bounds:1069,1772,288,188

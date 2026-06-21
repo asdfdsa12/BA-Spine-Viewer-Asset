@@ -1,32 +1,36 @@
 CH0095_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 00_defualt
-	bounds: 1695, 1890, 221, 156
+bounds:563,621,232,164
 01_normal
-	bounds: 1695, 1890, 221, 156
+bounds:563,621,232,164
 02_respond
-	bounds: 1246, 1886, 221, 160
+bounds:1379,1382,232,168
 03_smile
-	bounds: 1469, 1732, 220, 156
+bounds:797,591,231,164
 04_embarassed
-	bounds: 2, 1884, 221, 162
+bounds:562,1590,232,170
 05_serious
-	bounds: 2, 1736, 215, 146
+bounds:824,436,226,153
 06_depressed
-	bounds: 1691, 1731, 215, 157
+bounds:366,454,226,165
 07
-	bounds: 1246, 1730, 217, 154
+bounds:594,427,228,162
 CH0095
-	bounds: 2, 784, 1370, 1262
-	offsets: 0, 0, 1370, 2386
-CH009599
-	bounds: 873, 155, 1173, 1220
-	offsets: 52, 1166, 1370, 2386
-	rotate: 180
+bounds:882,2,1164,1338
+offsets:77,1167,1438,2505
+rotate:180
+CH0095C
+bounds:2,735,1438,1025
+offsets:0,347,1438,2505
+CH0095C2
+bounds:1706,1210,326,550
+offsets:351,0,1438,2505
 Gun
-	bounds: 583, 1624, 345, 422
+bounds:2,416,362,443
 eyeclose
-	bounds: 1469, 1890, 224, 156
+bounds:326,652,235,164
 halo
-	bounds: 892, 1848, 352, 198
+bounds:1238,1552,370,208

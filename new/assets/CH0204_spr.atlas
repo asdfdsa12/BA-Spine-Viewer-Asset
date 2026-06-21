@@ -1,251 +1,81 @@
-
 CH0204_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
 00_default
-  rotate: false
-  xy: 796, 781
-  size: 110, 76
-  orig: 110, 76
-  offset: 0, 0
-  index: -1
+bounds:1843,150,203,141
 01_eye close
-  rotate: false
-  xy: 622, 4
-  size: 110, 76
-  orig: 110, 76
-  offset: 0, 0
-  index: -1
+bounds:613,251,203,141
 02_normal
-  rotate: true
-  xy: 1580, 749
-  size: 109, 76
-  orig: 109, 76
-  offset: 0, 0
-  index: -1
+bounds:407,106,201,141
 03_respond
-  rotate: false
-  xy: 2, 18
-  size: 109, 78
-  orig: 109, 78
-  offset: 0, 0
-  index: -1
+bounds:2,277,201,144
 04_smile
-  rotate: true
-  xy: 1600, 186
-  size: 109, 75
-  orig: 109, 75
-  offset: 0, 0
-  index: -1
+bounds:1283,1171,201,138
+rotate:90
 05_embarassed
-  rotate: false
-  xy: 112, 5
-  size: 109, 77
-  orig: 109, 77
-  offset: 0, 0
-  index: -1
+bounds:410,249,201,143
 06_serious
-  rotate: false
-  xy: 1481, 19
-  size: 108, 79
-  orig: 108, 79
-  offset: 0, 0
-  index: -1
+bounds:609,394,200,146
 07_depressed
-  rotate: true
-  xy: 1599, 627
-  size: 109, 76
-  orig: 109, 76
-  offset: 0, 0
-  index: -1
+bounds:1292,1374,201,140
+rotate:90
 08_eye close_02
-  rotate: true
-  xy: 1640, 407
-  size: 107, 73
-  orig: 107, 73
-  offset: 0, 0
-  index: -1
+bounds:1743,12,198,136
 09_respond_02
-  rotate: false
-  xy: 510, 5
-  size: 110, 77
-  orig: 110, 77
-  offset: 0, 0
-  index: -1
+bounds:205,258,203,142
 10_smile_02
-  rotate: true
-  xy: 1561, 406
-  size: 109, 77
-  orig: 109, 77
-  offset: 0, 0
-  index: -1
+bounds:204,114,201,142
 11_embarassed_02
-  rotate: false
-  xy: 1175, 22
-  size: 108, 81
-  orig: 108, 81
-  offset: 0, 0
-  index: -1
+bounds:407,402,200,150
 12_embarassed_03
-  rotate: false
-  xy: 622, 83
-  size: 108, 96
-  orig: 108, 96
-  offset: 0, 0
-  index: -1
+bounds:541,1458,200,178
 13_depressed_03
-  rotate: false
-  xy: 843, 11
-  size: 105, 69
-  orig: 105, 69
-  offset: 0, 0
-  index: -1
+bounds:2,2,194,128
 14_depressed_03
-  rotate: true
-  xy: 1561, 516
-  size: 108, 77
-  orig: 108, 77
-  offset: 0, 0
-  index: -1
+bounds:613,107,200,142
 15_angry_01
-  rotate: true
-  xy: 1515, 296
-  size: 108, 91
-  orig: 108, 91
-  offset: 0, 0
-  index: -1
+bounds:1232,756,200,168
 16_annoying
-  rotate: true
-  xy: 1608, 296
-  size: 108, 73
-  orig: 108, 73
-  offset: 0, 0
-  index: -1
+bounds:1280,969,200,136
+rotate:90
 17_annoying_02
-  rotate: false
-  xy: 951, 51
-  size: 112, 91
-  orig: 112, 91
-  offset: 0, 0
-  index: -1
+bounds:2,1225,207,168
 18_shame
-  rotate: false
-  xy: 1490, 100
-  size: 108, 85
-  orig: 108, 85
-  offset: 0, 0
-  index: -1
+bounds:1837,468,200,157
 19_shame_02
-  rotate: false
-  xy: 1064, 29
-  size: 109, 81
-  orig: 109, 81
-  offset: 0, 0
-  index: -1
+bounds:204,423,201,150
 20_angry_03
-  rotate: true
-  xy: 1503, 186
-  size: 108, 89
-  orig: 108, 89
-  offset: 0, 0
-  index: -1
+bounds:1846,627,200,165
 21_surprise
-  rotate: false
-  xy: 732, 92
-  size: 108, 96
-  orig: 108, 96
-  offset: 0, 0
-  index: -1
+bounds:2,1637,200,178
 22_surprise_02
-  rotate: false
-  xy: 842, 82
-  size: 107, 96
-  orig: 107, 96
-  offset: 0, 0
-  index: -1
+bounds:2,1457,198,178
 23_surprise_03
-  rotate: false
-  xy: 2, 195
-  size: 107, 107
-  orig: 107, 107
-  offset: 0, 0
-  index: -1
+bounds:2,1817,198,198
 24_smile_03
-  rotate: false
-  xy: 733, 3
-  size: 108, 77
-  orig: 108, 77
-  offset: 0, 0
-  index: -1
+bounds:2,132,200,143
 25_serious_02
-  rotate: true
-  xy: 115, 302
-  size: 108, 82
-  orig: 108, 82
-  offset: 0, 0
-  index: -1
+bounds:2,442,200,152
 26_tired
-  rotate: false
-  xy: 2, 304
-  size: 112, 107
-  orig: 112, 107
-  offset: 0, 0
-  index: -1
+bounds:563,1817,207,198
 CH0204
-  rotate: true
-  xy: 982, 31
-  size: 411, 532
-  orig: 450, 1271
-  offset: 0, 739
-  index: -1
+bounds:884,74,722,984
+offsets:27,1369,834,2353
+rotate:270
 CH02055
-  rotate: true
-  xy: 184, 48
-  size: 450, 796
-  orig: 450, 1271
-  offset: 0, 0
-  index: -1
+bounds:2,541,834,1474
+offsets:0,0,834,2353
 diorama_01
-  rotate: true
-  xy: 857, 444
-  size: 413, 740
-  orig: 413, 740
-  offset: 0, 0
-  index: -1
+bounds:1434,589,612,1096
 diorama_02
-  rotate: false
-  xy: 2, 395
-  size: 854, 462
-  orig: 854, 462
-  offset: 0, 0
-  index: -1
+bounds:800,750,1265,685
+rotate:270
 fronthair
-  rotate: false
-  xy: 2, 98
-  size: 142, 96
-  orig: 142, 96
-  offset: 0, 0
-  index: -1
+bounds:553,1638,263,177
 glasses
-  rotate: true
-  xy: 1593, 18
-  size: 136, 116
-  orig: 136, 116
-  offset: 0, 0
-  index: -1
+bounds:1794,1741,252,214
 halo_01
-  rotate: true
-  xy: 110, 181
-  size: 120, 70
-  orig: 120, 70
-  offset: 0, 0
-  index: -1
+bounds:642,1234,222,129
+rotate:90
 halo_02
-  rotate: false
-  xy: 2, 412
-  size: 204, 118
-  orig: 204, 118
-  offset: 0, 0
-  index: -1
+bounds:1430,1796,378,219

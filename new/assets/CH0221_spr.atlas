@@ -1,118 +1,46 @@
-
 CH0221_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.36
 01_nomal
-  rotate: false
-  xy: 643, 795
-  size: 143, 102
-  orig: 143, 102
-  offset: 0, 0
-  index: -1
+bounds:1290,1788,325,231
 02_respond
-  rotate: false
-  xy: 169, 35
-  size: 143, 101
-  orig: 143, 101
-  offset: 0, 0
-  index: -1
+bounds:378,16,325,228
 03_smile
-  rotate: true
-  xy: 795, 689
-  size: 124, 107
-  orig: 124, 107
-  offset: 0, 0
-  index: -1
+bounds:1759,613,280,242
 04_embarassed
-  rotate: true
-  xy: 753, 543
-  size: 143, 98
-  orig: 143, 98
-  offset: 0, 0
-  index: -1
+bounds:1237,35,325,223
+rotate:90
 05_serious
-  rotate: true
-  xy: 777, 252
-  size: 143, 97
-  orig: 143, 97
-  offset: 0, 0
-  index: -1
+bounds:1684,35,325,219
+rotate:90
 06_depressed
-  rotate: true
-  xy: 675, 41
-  size: 143, 102
-  orig: 143, 102
-  offset: 0, 0
-  index: -1
+bounds:1617,1788,324,231
 07
-  rotate: false
-  xy: 498, 796
-  size: 143, 111
-  orig: 143, 111
-  offset: 0, 0
-  index: -1
+bounds:963,1767,325,252
 08
-  rotate: true
-  xy: 779, 108
-  size: 143, 94
-  orig: 143, 94
-  offset: 0, 0
-  index: -1
+bounds:1711,857,324,212
+rotate:90
 09
-  rotate: false
-  xy: 545, 47
-  size: 127, 136
-  orig: 127, 136
-  offset: 0, 0
-  index: -1
+bounds:1704,1183,288,309
 10
-  rotate: false
-  xy: 2, 328
-  size: 143, 134
-  orig: 143, 134
-  offset: 0, 0
-  index: -1
+bounds:2,656,325,305
+rotate:90
 CH0221
-  rotate: false
-  xy: 2, 137
-  size: 508, 779
-  orig: 508, 1364
-  offset: 0, 585
-  index: -1
+bounds:2,245,1151,1774
+offsets:0,1317,1151,3091
 CH022132
-  rotate: 180
-  xy: 468, 186
-  size: 325, 609
-  orig: 508, 1364
-  offset: 88, 0
-  index: -1
+bounds:1063,362,735,1379
+offsets:201,0,1151,3091
+rotate:180
 default
-  rotate: true
-  xy: 755, 398
-  size: 143, 97
-  orig: 143, 97
-  offset: 0, 0
-  index: -1
+bounds:1462,35,325,220
+rotate:90
 eyeclose
-  rotate: false
-  xy: 779, 3
-  size: 129, 102
-  orig: 129, 102
-  offset: 0, 0
-  index: -1
+bounds:1800,1494,292,231
+rotate:90
 halo_01
-  rotate: false
-  xy: 345, 40
-  size: 198, 142
-  orig: 198, 142
-  offset: 0, 0
-  index: -1
+bounds:786,12,449,321
 halo_02
-  rotate: 270
-  xy: 2, 38
-  size: 220, 165
-  orig: 220, 165
-  offset: 0, 0
-  index: -1
+bounds:2,2,498,374
+rotate:270

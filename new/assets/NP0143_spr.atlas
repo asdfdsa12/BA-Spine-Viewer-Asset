@@ -1,27 +1,13 @@
-
 NP0143_spr.png
-size: 1024,512
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.4
 NP0143
-  rotate: true
-  xy: 510, 3
-  size: 381, 507
-  orig: 406, 999
-  offset: 0, 0
-  index: -1
+bounds:888,2,1158,1543
+offsets:0,0,1235,3039
+rotate:180
 NP01434
-  rotate: true
-  xy: 2, 18
-  size: 366, 510
-  orig: 406, 999
-  offset: 40, 489
-  index: -1
+bounds:2,321,1112,1549
+offsets:123,1490,1235,3039
 halo
-  rotate: false
-  xy: 2, 48
-  size: 153, 93
-  orig: 153, 93
-  offset: 0, 0
-  index: -1
+bounds:1114,1586,465,284

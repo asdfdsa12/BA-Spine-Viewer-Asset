@@ -1,53 +1,52 @@
 CH0098_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 01_normal
-	bounds: 1442, 1563, 177, 161
+bounds:648,1489,186,169
 02_respond
-	bounds: 1433, 1264, 156, 135
-	offsets: 10, 10, 176, 155
+bounds:647,1344,165,143
+offsets:10,10,185,163
 03_smile
-	bounds: 1880, 1393, 151, 143
-	offsets: 10, 10, 171, 163
+bounds:420,697,160,151
+offsets:10,10,180,171
 04_embarassed
-	bounds: 678, 1438, 207, 134
-	offsets: 10, 10, 227, 154
+bounds:836,1371,218,142
+offsets:10,10,238,162
 05_serious
-	bounds: 1912, 1907, 131, 136
-	offsets: 10, 10, 151, 156
+bounds:1903,1514,139,144
+offsets:10,10,159,164
 06_depressed
-	bounds: 887, 1421, 139, 143
-	offsets: 10, 10, 159, 163
+bounds:1380,1507,147,151
+offsets:10,10,167,171
 07
-	bounds: 867, 1577, 130, 132
-	offsets: 10, 10, 150, 152
+bounds:1907,1372,138,140
+offsets:10,10,158,160
 08
-	bounds: 658, 1574, 207, 135
-	offsets: 10, 10, 227, 155
+bounds:836,1515,218,143
+offsets:10,10,238,163
 CH0098
-	bounds: 2, 103, 703, 1940
-	offsets: 772, 723, 1934, 2669
+bounds:35,2,738,2011
+offsets:811,786,2031,2802
+rotate:90
 CH0098_1
-	bounds: 683, 110, 1933, 791
-	offsets: 1, 0, 1934, 2669
-	rotate: 270
+bounds:2,707,2031,951
+offsets:0,0,2031,2802
 default
-	bounds: 1881, 1538, 157, 141
-	offsets: 10, 10, 177, 161
+bounds:1880,805,166,149
+offsets:10,10,186,169
 eyeclose
-	bounds: 1608, 1369, 152, 141
-	offsets: 10, 10, 172, 161
+bounds:582,684,161,149
+offsets:10,10,181,169
 hair_cover
-	bounds: 1714, 1681, 226, 362
-	rotate: 180
+bounds:2,572,237,380
 halo_01
-	bounds: 1366, 1726, 354, 317
-	offsets: 0, 0, 356, 317
+bounds:1534,1325,372,333
+offsets:0,0,374,333
 halo_02
-	bounds: 1622, 1512, 258, 235
-	offsets: 3, 0, 264, 235
+bounds:376,1411,271,247
+offsets:3,0,277,247
 halo_03
-	bounds: 1420, 1401, 186, 160
-	rotate: 180
+bounds:223,723,195,168
 halo_04
-	bounds: 616, 1711, 368, 332
+bounds:2,1309,386,349

@@ -1,111 +1,49 @@
-
 NP0001_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 00_default
-  rotate: false
-  xy: 499, 811
-  size: 115, 81
-  orig: 115, 81
-  offset: 0, 0
-  index: -1
+bounds:2,1305,261,185
 01_normal
-  rotate: false
-  xy: 499, 811
-  size: 115, 81
-  orig: 115, 81
-  offset: 0, 0
-  index: -1
+bounds:2,1305,261,185
 02_respond
-  rotate: false
-  xy: 186, 809
-  size: 115, 83
-  orig: 115, 83
-  offset: 0, 0
-  index: -1
+bounds:1725,1630,261,189
+rotate:90
 03_smile
-  rotate: false
-  xy: 2, 632
-  size: 116, 84
-  orig: 116, 84
-  offset: 0, 0
-  index: -1
+bounds:417,1701,263,190
 04_embarrass
-  rotate: false
-  xy: 616, 815
-  size: 115, 77
-  orig: 115, 77
-  offset: 0, 0
-  index: -1
+bounds:1725,1255,261,175
 05_serious
-  rotate: false
-  xy: 2, 219
-  size: 114, 80
-  orig: 114, 80
-  offset: 0, 0
-  index: -1
+bounds:265,1307,260,183
 06_embarrassed
-  rotate: false
-  xy: 2, 60
-  size: 114, 74
-  orig: 114, 74
-  offset: 0, 0
-  index: -1
+bounds:1640,654,259,168
 07_embarrass 2
-  rotate: false
-  xy: 186, 732
-  size: 107, 76
-  orig: 107, 76
-  offset: 0, 0
-  index: -1
+bounds:250,632,243,173
 08_smile 2
-  rotate: false
-  xy: 119, 629
-  size: 109, 86
-  orig: 109, 86
-  offset: 0, 0
-  index: -1
+bounds:1648,1432,248,196
 Character Halo
-  rotate: false
-  xy: 2, 717
-  size: 182, 175
-  orig: 182, 175
-  offset: 0, 0
-  index: -1
+bounds:2,1492,413,399
 HairCover
-  rotate: false
-  xy: 602, 756
-  size: 120, 53
-  orig: 120, 53
-  offset: 0, 0
-  index: -1
+bounds:1372,531,274,121
 azusa_gym_00
-  rotate: 270
-  xy: 393, 57
-  size: 384, 498
-  orig: 384, 498
-  offset: 0, 0
-  index: -1
+bounds:656,2,332,1133
+offsets:1,0,874,1133
+rotate:270
+azusa_gym_00C
+bounds:2,527,325,200
+offsets:549,657,874,1133
 azusa_gym_01
-  rotate: false
-  xy: 2, 164
-  size: 846, 729
-  orig: 846, 729
-  offset: 0, 0
-  index: -1
+bounds:2,235,1911,1656
+offsets:13,0,1924,1656
+azusa_gym_01C
+bounds:1106,1816,72,75
+offsets:120,598,1924,1656
+azusa_gym_01C2
+bounds:100,1210,95,371
+offsets:1709,66,1924,1656
+rotate:90
 eyeclose
-  rotate: false
-  xy: 2, 136
-  size: 108, 81
-  orig: 108, 81
-  offset: 0, 0
-  index: -1
+bounds:2,729,246,185
 gas mask
-  rotate: false
-  xy: 2, 301
-  size: 159, 149
-  orig: 167, 149
-  offset: 8, 0
-  index: -1
+bounds:1362,1552,362,339
+offsets:18,0,380,339

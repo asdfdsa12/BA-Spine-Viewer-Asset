@@ -1,65 +1,69 @@
 CH0226_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.55
+size:2048,2048
+filter:Linear,Linear
+scale:1.09
 00_default
-	bounds: 358, 154, 115, 84
+bounds:462,79,228,166
 02_respond
-	bounds: 358, 154, 115, 84
+bounds:462,79,228,166
 01_normal
-	bounds: 727, 180, 115, 84
+bounds:462,247,228,166
 03_smile
-	bounds: 809, 95, 115, 81
+bounds:1666,381,228,160
+rotate:90
 04_embarassed
-	bounds: 907, 178, 115, 86
+bounds:232,168,228,170
 05_serious
-	bounds: 117, 72, 113, 81
+bounds:1828,453,225,160
+rotate:90
 06_depressed
-	bounds: 942, 793, 112, 79
-	rotate: 90
+bounds:229,10,222,156
 07
-	bounds: 906, 543, 116, 86
+bounds:1001,1868,230,171
 08
-	bounds: 241, 155, 115, 83
+bounds:692,263,228,164
+rotate:90
 09
-	bounds: 2, 97, 113, 82
+bounds:1696,154,225,162
+rotate:90
 10
-	bounds: 944, 678, 113, 76
-	rotate: 90
+bounds:1530,2,225,150
 11
-	bounds: 119, 155, 113, 83
+bounds:1530,154,225,164
+rotate:90
 12
-	bounds: 2, 181, 115, 86
+bounds:2,189,228,170
 13
-	bounds: 234, 72, 113, 81
+bounds:1715,680,225,160
+rotate:90
 14
-	bounds: 936, 428, 113, 80
-	rotate: 90
+bounds:1860,154,225,158
+rotate:90
 15
-	bounds: 939, 907, 115, 79
-	rotate: 90
+bounds:1877,848,228,157
+rotate:90
 16
-	bounds: 349, 41, 111, 79
-	rotate: 90
+bounds:1233,1883,219,156
 17
-	bounds: 926, 63, 113, 78
-	rotate: 90
+bounds:2,32,225,155
 18
-	bounds: 2, 838, 113, 116
+bounds:2,1686,225,230
 eye close
-	bounds: 2, 271, 102, 74
-	offsets: 6, 5, 113, 84
-	rotate: 90
+bounds:1757,6,203,146
+offsets:11,10,225,166
 front hair
-	bounds: 815, 266, 137, 113
-	offsets: 3, 3, 143, 119
+bounds:828,1472,270,223
+offsets:6,6,283,237
 halo
-	bounds: 458, 63, 349, 321
-	offsets: 0, 2, 349, 323
-	rotate: 180
+bounds:836,72,692,636
+offsets:0,4,692,640
+rotate:180
 kokuriko
-	bounds: 461, 279, 482, 743
-	offsets: 15, 766, 503, 1509
+bounds:970,391,995,1648
+offsets:2,1342,997,2990
 kokuriko_01
-	bounds: 2, 239, 502, 783
-	offsets: 0, 1, 503, 1509
+bounds:2,339,997,1700
+offsets:0,0,997,2990
+kokuriko_02
+bounds:2,361,229,493
+offsets:755,2332,997,2990

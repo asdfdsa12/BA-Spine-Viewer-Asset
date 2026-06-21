@@ -1,132 +1,52 @@
-
 NP0014_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 1088, 6
-  size: 108, 99
-  orig: 108, 99
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
 00_default
-  rotate: false
-  xy: 1088, 6
-  size: 108, 99
-  orig: 108, 99
-  offset: 0, 0
-  index: -1
+bounds:1716,1192,197,180
+01_normal
+bounds:1716,1192,197,180
 02_respond
-  rotate: false
-  xy: 1198, 7
-  size: 108, 100
-  orig: 108, 100
-  offset: 0, 0
-  index: -1
+bounds:1675,5,197,181
+rotate:90
 03_smile
-  rotate: false
-  xy: 2, 740
-  size: 121, 110
-  orig: 121, 110
-  offset: 0, 0
-  index: -1
+bounds:1826,1372,220,200
 04_embarrassed
-  rotate: false
-  xy: 238, 751
-  size: 107, 99
-  orig: 107, 99
-  offset: 0, 0
-  index: -1
+bounds:844,487,195,180
 05_serious
-  rotate: false
-  xy: 633, 76
-  size: 107, 91
-  orig: 107, 91
-  offset: 0, 0
-  index: -1
+bounds:1396,1113,195,166
+rotate:90
 06_shout
-  rotate: false
-  xy: 347, 755
-  size: 106, 96
-  orig: 106, 96
-  offset: 0, 0
-  index: -1
+bounds:2,282,193,174
 07
-  rotate: false
-  xy: 2, 31
-  size: 107, 93
-  orig: 107, 93
-  offset: 0, 0
-  index: -1
+bounds:2,111,195,169
 08
-  rotate: false
-  xy: 455, 755
-  size: 106, 96
-  orig: 106, 96
-  offset: 0, 0
-  index: -1
+bounds:1854,168,192,174
 NP0014
-  rotate: false
-  xy: 742, 103
-  size: 584, 748
-  orig: 766, 1427
-  offset: 7, 0
-  index: -1
-NP0014_0
-  rotate: false
-  xy: 2, 14
-  size: 766, 836
-  orig: 766, 1427
-  offset: 0, 591
-  index: -1
+bounds:2,455,1392,1513
+offsets:0,1082,1392,2595
+rotate:180
+NP0014C
+bounds:260,2,1027,665
+offsets:43,719,1392,2595
+NP0014C2
+bounds:1189,1071,897,820
+offsets:147,0,1392,2595
+rotate:90
 Umbrella deco
-  rotate: false
-  xy: 354, 44
-  size: 197, 307
-  orig: 197, 307
-  offset: 0, 0
-  index: -1
+bounds:39,1410,358,558
 Umbrella_1
-  rotate: 180
-  xy: 1299, 146
-  size: 496, 617
-  orig: 497, 617
-  offset: 1, 0
-  index: -1
+bounds:1235,67,811,1010
+offsets:2,0,813,1010
 Umbrella_2
-  rotate: 270
-  xy: 475, 3
-  size: 326, 272
-  orig: 326, 272
-  offset: 0, 0
-  index: -1
+bounds:286,1375,593,494
+rotate:90
 Umbrella_3
-  rotate: false
-  xy: 765, 539
-  size: 78, 312
-  orig: 79, 313
-  offset: 1, 1
-  index: -1
+bounds:2,1400,141,568
+offsets:2,1,143,569
 eyeclose
-  rotate: false
-  xy: 978, 5
-  size: 108, 99
-  orig: 108, 99
-  offset: 0, 0
-  index: -1
+bounds:1379,931,197,180
+rotate:180
 halo
-  rotate: false
-  xy: 498, 124
-  size: 202, 235
-  orig: 202, 235
-  offset: 0, 0
-  index: -1
+bounds:291,1540,368,428
 sadow4444
-  rotate: false
-  xy: 125, 749
-  size: 111, 102
-  orig: 111, 102
-  offset: 0, 0
-  index: -1
+bounds:1218,1310,202,185

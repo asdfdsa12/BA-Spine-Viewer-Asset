@@ -1,139 +1,47 @@
-
 CH0159_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.9
 00_default
-  rotate: true
-  xy: 1524, 461
-  size: 94, 70
-  orig: 94, 70
-  offset: 0, 0
-  index: -1
+bounds:2,19,169,126
 01_normal
-  rotate: false
-  xy: 1126, 66
-  size: 94, 70
-  orig: 94, 70
-  offset: 0, 0
-  index: -1
+bounds:1811,1391,169,126
 02_respond
-  rotate: false
-  xy: 296, 67
-  size: 98, 76
-  orig: 98, 76
-  offset: 0, 0
-  index: -1
+bounds:1726,1519,176,137
 03_smile
-  rotate: false
-  xy: 1508, 115
-  size: 98, 70
-  orig: 98, 70
-  offset: 0, 0
-  index: -1
+bounds:980,686,176,125
 04_embarrass
-  rotate: false
-  xy: 83, 677
-  size: 104, 72
-  orig: 104, 72
-  offset: 0, 0
-  index: -1
+bounds:122,1734,186,129
 05_serious
-  rotate: false
-  xy: 1496, 186
-  size: 96, 74
-  orig: 96, 74
-  offset: 0, 0
-  index: -1
+bounds:2,272,172,132
 06
-  rotate: false
-  xy: 1413, 62
-  size: 93, 74
-  orig: 93, 74
-  offset: 0, 0
-  index: -1
+bounds:1526,1265,167,133
 10_etc
-  rotate: false
-  xy: 1318, 37
-  size: 93, 78
-  orig: 93, 78
-  offset: 0, 0
-  index: -1
+bounds:1470,1485,167,140
 11_etc
-  rotate: false
-  xy: 361, 128
-  size: 94, 79
-  orig: 94, 79
-  offset: 0, 0
-  index: -1
+bounds:809,677,169,141
 12_etc
-  rotate: false
-  xy: 197, 16
-  size: 98, 76
-  orig: 98, 76
-  offset: 0, 0
-  index: -1
+bounds:1870,1626,176,137
 7_etc
-  rotate: false
-  xy: 1508, 41
-  size: 94, 72
-  orig: 94, 72
-  offset: 0, 0
-  index: -1
+bounds:809,546,169,129
 8_etc
-  rotate: true
-  xy: 1515, 558
-  size: 96, 68
-  orig: 96, 68
-  offset: 0, 0
-  index: -1
+bounds:2,147,172,122
 9_etc
-  rotate: true
-  xy: 396, 21
-  size: 96, 69
-  orig: 96, 69
-  offset: 0, 0
-  index: -1
+bounds:199,404,172,123
 CH0159
-  rotate: false
-  xy: 2, 192
-  size: 884, 557
-  orig: 884, 1079
-  offset: 0, 0
-  index: -1
-CH015922
-  rotate: false
-  xy: 780, 138
-  size: 828, 611
-  orig: 884, 1079
-  offset: 56, 468
-  index: -1
+bounds:991,2,1393,1055
+offsets:114,886,1591,1941
+rotate:90
+CH0159C
+bounds:2,804,1591,1059
+offsets:0,0,1591,1941
 eyeclose2
-  rotate: false
-  xy: 1222, 66
-  size: 94, 70
-  orig: 94, 70
-  offset: 0, 0
-  index: -1
+bounds:1640,1400,169,126
 halo
-  rotate: false
-  xy: 2, 63
-  size: 232, 132
-  orig: 232, 132
-  offset: 0, 0
-  index: -1
+bounds:1456,1626,418,237
 hologram_normal
-  rotate: true
-  xy: 887, 12
-  size: 448, 240
-  orig: 448, 277
-  offset: 0, 37
-  index: -1
+bounds:2,404,806,431
+offsets:0,67,806,498
 hologram_screen
-  rotate: 180
-  xy: 467, 3
-  size: 448, 235
-  orig: 448, 277
-  offset: 0, 42
-  index: -1
+bounds:183,16,806,421
+offsets:0,77,806,498

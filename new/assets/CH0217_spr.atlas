@@ -1,160 +1,55 @@
-
 CH0217_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.16
 00_Default
-  rotate: true
-  xy: 445, 324
-  size: 122, 87
-  orig: 122, 87
-  offset: 0, 0
-  index: -1
+bounds:1554,177,256,184
 00_Eyeclose
-  rotate: false
-  xy: 740, 813
-  size: 117, 89
-  orig: 117, 89
-  offset: 0, 0
-  index: -1
+bounds:2,149,246,188
 01_Normal
-  rotate: false
-  xy: 717, 381
-  size: 119, 89
-  orig: 119, 89
-  offset: 0, 0
-  index: -1
+bounds:429,206,251,188
 02_Respond
-  rotate: false
-  xy: 647, 290
-  size: 122, 90
-  orig: 122, 90
-  offset: 0, 0
-  index: -1
+bounds:2,711,256,189
 03_Smile
-  rotate: true
-  xy: 820, 143
-  size: 119, 85
-  orig: 119, 85
-  offset: 0, 0
-  index: -1
+bounds:504,16,251,179
 04_Embarassed
-  rotate: true
-  xy: 820, 571
-  size: 119, 85
-  orig: 119, 85
-  offset: 0, 0
-  index: -1
+bounds:250,25,252,179
 05_Serious
-  rotate: false
-  xy: 699, 706
-  size: 119, 91
-  orig: 119, 91
-  offset: 0, 0
-  index: -1
+bounds:1554,363,251,191
 06_Depressed
-  rotate: true
-  xy: 820, 693
-  size: 119, 86
-  orig: 119, 86
-  offset: 0, 0
-  index: -1
+bounds:1812,27,251,182
+rotate:90
 07
-  rotate: true
-  xy: 740, 904
-  size: 113, 94
-  orig: 113, 94
-  offset: 0, 0
-  index: -1
+bounds:682,197,239,197
 08
-  rotate: false
-  xy: 256, 927
-  size: 122, 91
-  orig: 122, 91
-  offset: 0, 0
-  index: -1
+bounds:530,1805,258,191
 09
-  rotate: false
-  xy: 380, 925
-  size: 119, 92
-  orig: 119, 92
-  offset: 0, 0
-  index: -1
+bounds:1044,1801,252,195
 10
-  rotate: true
-  xy: 820, 21
-  size: 119, 84
-  orig: 119, 84
-  offset: 0, 0
-  index: -1
+bounds:757,18,252,177
 11
-  rotate: false
-  xy: 60, 312
-  size: 119, 92
-  orig: 119, 92
-  offset: 0, 0
-  index: -1
+bounds:1221,995,252,194
 12
-  rotate: false
-  xy: 771, 293
-  size: 119, 87
-  orig: 119, 87
-  offset: 0, 0
-  index: -1
+bounds:1812,280,252,183
+rotate:90
 13
-  rotate: false
-  xy: 2, 405
-  size: 119, 92
-  orig: 119, 92
-  offset: 0, 0
-  index: -1
+bounds:790,1801,252,195
 CH0217
-  rotate: true
-  xy: 2, 4
-  size: 336, 664
-  orig: 666, 1291
-  offset: 132, 0
-  index: -1
+bounds:1338,534,708,1399
+offsets:279,0,1404,2723
 CH0217_0
-  rotate: false
-  xy: 2, 258
-  size: 666, 759
-  orig: 666, 1291
-  offset: 0, 532
-  index: -1
+bounds:2,395,1404,1601
+offsets:0,1122,1404,2723
 Front_hair
-  rotate: true
-  xy: 2, 515
-  size: 130, 65
-  orig: 130, 65
-  offset: 0, 0
-  index: -1
+bounds:2,938,274,138
+rotate:90
 Halo_01
-  rotate: true
-  xy: 667, 60
-  size: 201, 151
-  orig: 201, 151
-  offset: 0, 0
-  index: -1
+bounds:2,339,425,319
 Hat_Back
-  rotate: true
-  xy: 865, 296
-  size: 274, 82
-  orig: 274, 82
-  offset: 0, 0
-  index: -1
+bounds:1011,2,578,173
 Hat_Combat
-  rotate: false
-  xy: 465, 726
-  size: 273, 292
-  orig: 273, 292
-  offset: 0, 0
-  index: -1
+bounds:938,92,577,615
+rotate:270
 Hat_Normal
-  rotate: 270
-  xy: 566, 451
-  size: 274, 252
-  orig: 274, 252
-  offset: 0, 0
-  index: -1
+bounds:998,1190,578,531
+rotate:270

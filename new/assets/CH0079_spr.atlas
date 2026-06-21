@@ -1,139 +1,61 @@
-
 CH0079_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.15
 00_default
-  rotate: false
-  xy: 1467, 151
-  size: 83, 91
-  orig: 83, 91
-  offset: 0, 0
-  index: -1
+bounds:1748,792,148,163
 01_normal
-  rotate: false
-  xy: 1559, 56
-  size: 82, 90
-  orig: 82, 90
-  offset: 0, 0
-  index: -1
+bounds:2,813,147,162
 02_respond
-  rotate: false
-  xy: 1643, 149
-  size: 76, 92
-  orig: 76, 92
-  offset: 0, 0
-  index: -1
+bounds:1898,757,136,166
 03_smile
-  rotate: true
-  xy: 2, 3
-  size: 88, 93
-  orig: 88, 93
-  offset: 0, 0
-  index: -1
+bounds:1813,1386,159,168
 04_embrassed
-  rotate: false
-  xy: 1383, 144
-  size: 82, 97
-  orig: 82, 97
-  offset: 0, 0
-  index: -1
+bounds:1826,1692,147,175
 05_serious
-  rotate: false
-  xy: 1551, 149
-  size: 81, 92
-  orig: 81, 92
-  offset: 0, 0
-  index: -1
+bounds:1820,1548,146,166
 06_depressed
-  rotate: false
-  xy: 1383, 44
-  size: 81, 97
-  orig: 81, 97
-  offset: 0, 0
-  index: -1
+bounds:1772,925,145,175
 07
-  rotate: false
-  xy: 2, 93
-  size: 128, 152
-  orig: 128, 308
-  offset: 0, 0
-  index: -1
+bounds:986,1776,151,230
+offsets:0,0,230,553
 08
-  rotate: true
-  xy: 132, 7
-  size: 133, 92
-  orig: 133, 92
-  offset: 0, 0
-  index: -1
+bounds:2,1842,239,164
 09
-  rotate: false
-  xy: 1157, 243
-  size: 133, 88
-  orig: 133, 88
-  offset: 0, 0
-  index: -1
+bounds:540,1848,239,158
 10
-  rotate: false
-  xy: 1466, 50
-  size: 92, 92
-  orig: 92, 92
-  offset: 0, 0
-  index: -1
+bounds:1832,1842,164,164
 11
-  rotate: false
-  xy: 2, 850
-  size: 147, 142
-  orig: 147, 308
-  offset: 0, 0
-  index: -1
+bounds:243,1777,184,229
+offsets:0,0,265,553
 12
-  rotate: false
-  xy: 1149, 805
-  size: 136, 93
-  orig: 136, 93
-  offset: 0, 0
-  index: -1
+bounds:2,1672,244,168
 13
-  rotate: true
-  xy: 1003, 34
-  size: 136, 90
-  orig: 136, 90
-  offset: 0, 0
-  index: -1
+bounds:1802,1192,244,161
 14
-  rotate: false
-  xy: 151, 910
-  size: 136, 82
-  orig: 136, 82
-  offset: 0, 0
-  index: -1
+bounds:1793,1043,244,147
 CH0079
-  rotate: false
-  xy: 1173, 243
-  size: 723, 750
-  orig: 1306, 1647
-  offset: 267, 897
-  index: -1
+bounds:1455,42,591,665
+offsets:738,1998,2111,2663
+rotate:180
 CH00791
-  rotate: false
-  xy: 2, 48
-  size: 1306, 944
-  orig: 1306, 1647
-  offset: 0, 0
-  index: -1
+bounds:835,950,996,1056
+offsets:564,517,2111,2663
+CH00792
+bounds:2,481,1036,1525
+offsets:0,0,2111,2663
+CH00793
+bounds:333,130,600,1049
+offsets:1511,288,2111,2663
+rotate:270
+CH00794
+bounds:2,2,496,532
+offsets:1086,0,2111,2663
+rotate:90
+CH00795
+bounds:791,483,886,466
+offsets:596,1550,2111,2663
 eyeclose
-  rotate: false
-  xy: 1643, 58
-  size: 79, 88
-  orig: 81, 90
-  offset: 1, 1
-  index: -1
+bounds:1665,748,145,162
 halo_2
-  rotate: false
-  xy: 1095, 52
-  size: 286, 189
-  orig: 286, 189
-  offset: 0, 0
-  index: -1
+bounds:2,502,412,273

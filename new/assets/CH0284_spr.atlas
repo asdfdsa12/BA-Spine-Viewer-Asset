@@ -1,87 +1,87 @@
 CH0284_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.63
+size:2048,2048
+filter:Linear,Linear
+scale:1.23
 00_default
-	bounds: 668, 418, 138, 98
-	offsets: 7, 6, 151, 110
-00_eye close
-	bounds: 808, 373, 137, 98
-	offsets: 7, 6, 150, 110
+bounds:1416,1241,294,214
+rotate:90
 01_normal
-	bounds: 2, 862, 151, 110
+bounds:1416,1241,294,214
+rotate:90
+00_eye close
+bounds:1450,37,268,190
+offsets:13,12,293,214
 02_respond
-	bounds: 846, 473, 141, 97
-	offsets: 7, 6, 154, 109
-	rotate: 90
+bounds:2,162,300,205
+offsets:0,0,300,213
+rotate:90
 03_smile
-	bounds: 747, 274, 137, 97
-	offsets: 7, 6, 150, 109
+bounds:2,1071,293,213
 04_embarassed
-	bounds: 604, 215, 138, 96
-	offsets: 6, 6, 150, 108
+bounds:1156,17,293,210
 05_serious
-	bounds: 519, 27, 135, 89
-	offsets: 6, 6, 147, 101
+bounds:1720,34,288,198
 06_depressed
-	bounds: 729, 83, 135, 93
-	offsets: 6, 6, 147, 105
+bounds:1676,1737,288,205
+rotate:90
 07
-	bounds: 886, 235, 136, 95
-	offsets: 6, 6, 148, 107
-	rotate: 90
+bounds:441,1011,289,203
+offsets:0,0,289,209
 08
-	bounds: 846, 616, 142, 102
-	offsets: 6, 6, 154, 114
-	rotate: 90
+bounds:1374,1809,300,216
+offsets:0,0,300,223
 09
-	bounds: 114, 13, 135, 85
-	offsets: 6, 6, 147, 97
+bounds:199,2,287,185
+offsets:0,0,287,189
+rotate:90
 10
-	bounds: 2, 750, 136, 110
-	offsets: 6, 6, 148, 122
+bounds:1416,1517,289,237
+rotate:90
 11
-	bounds: 615, 313, 130, 103
-	offsets: 6, 6, 142, 115
+bounds:1586,986,253,200
+offsets:12,12,277,224
+rotate:90
 12
-	bounds: 382, 70, 135, 91
-	offsets: 6, 6, 147, 103
+bounds:1675,234,264,178
+offsets:12,12,288,202
+rotate:90
 13
-	bounds: 391, 462, 138, 98
-	offsets: 7, 6, 151, 110
+bounds:1483,229,269,190
+offsets:13,12,294,214
+rotate:90
 14
-	bounds: 884, 96, 137, 94
-	offsets: 6, 6, 149, 106
-	rotate: 90
+bounds:1584,500,268,183
+offsets:12,12,292,207
 15
-	bounds: 592, 118, 135, 95
-	offsets: 6, 6, 147, 107
+bounds:1592,799,264,185
+offsets:12,12,288,209
 16
-	bounds: 846, 760, 132, 118
-	offsets: 6, 6, 144, 130
+bounds:896,14,258,231
+offsets:12,12,282,255
 17
-	bounds: 846, 880, 135, 138
-	offsets: 7, 6, 148, 150
+bounds:1320,970,264,269
+offsets:13,12,289,293
 18
-	bounds: 866, 2, 120, 92
-	offsets: 6, 6, 132, 104
+bounds:1788,1005,234,179
+offsets:12,12,258,203
+rotate:90
 19
-	bounds: 155, 850, 128, 122
-	offsets: 6, 6, 140, 134
+bounds:1615,1455,274,261
+rotate:90
 20
-	bounds: 744, 178, 138, 94
-	offsets: 6, 6, 150, 106
+bounds:1632,1241,269,183
+offsets:12,12,293,207
 CH0284
-	bounds: 2, 68, 511, 612
-	offsets: 4, 839, 602, 1453
-	rotate: 270
+bounds:8,983,1042,1407
+offsets:0,1431,1176,2838
+rotate:90
 CH0284C
-	bounds: 2, 474, 544, 843
-	offsets: 57, 4, 602, 1453
-	rotate: 270
+bounds:2,63,1018,1589
+offsets:158,0,1176,2838
+rotate:90
 Halo
-	bounds: 2, 974, 270, 44
-	offsets: 6, 6, 282, 56
+bounds:2,1940,525,85
+offsets:12,12,551,109
 hair cover
-	bounds: 622, 895, 167, 123
-	offsets: 6, 6, 179, 135
+bounds:1156,229,325,240
+offsets:12,12,349,264

@@ -1,125 +1,60 @@
-
 NP0008_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.35
 00_default
-  rotate: 270
-  xy: 314, 3
-  size: 156, 89
-  orig: 174, 97
-  offset: 0, 8
-  index: -1
+bounds:1696,1275,420,238
+offsets:0,23,468,261
+rotate:90
 01_normal
-  rotate: true
-  xy: 253, 605
-  size: 134, 95
-  orig: 174, 105
-  offset: 0, 10
-  index: -1
+bounds:2,319,360,253
+offsets:0,29,468,282
 02_respond
-  rotate: true
-  xy: 2, 739
-  size: 139, 94
-  orig: 173, 108
-  offset: 0, 14
-  index: -1
+bounds:1439,411,374,254
+offsets:0,38,466,292
 03_smile
-  rotate: true
-  xy: 366, 813
-  size: 96, 77
-  orig: 96, 77
-  offset: 0, 0
-  index: -1
+bounds:369,118,259,208
+rotate:90
 04_embarassed
-  rotate: true
-  xy: 2, 879
-  size: 144, 103
-  orig: 174, 108
-  offset: 0, 5
-  index: -1
+bounds:1440,666,387,276
+offsets:0,16,468,292
 05_serious
-  rotate: 270
-  xy: 328, 187
-  size: 128, 93
-  orig: 174, 107
-  offset: 0, 14
-  index: -1
+bounds:1795,412,344,251
+offsets:0,38,468,289
+rotate:270
 06_depressed
-  rotate: false
-  xy: 253, 744
-  size: 144, 82
-  orig: 174, 97
-  offset: 0, 15
-  index: -1
+bounds:17,783,387,221
+offsets:0,41,468,262
+rotate:90
 07
-  rotate: 270
-  xy: 346, 592
-  size: 132, 85
-  orig: 174, 95
-  offset: 0, 10
-  index: -1
+bounds:614,203,356,230
+offsets:0,27,468,257
 08
-  rotate: 270
-  xy: 2, 468
-  size: 136, 66
-  orig: 136, 66
-  offset: 0, 0
-  index: -1
+bounds:1323,90,366,177
+rotate:180
 09
-  rotate: true
-  xy: 2, 606
-  size: 136, 73
-  orig: 136, 73
-  offset: 0, 0
-  index: -1
+bounds:2,121,366,196
 10
-  rotate: true
-  xy: 248, 459
-  size: 147, 135
-  orig: 174, 135
-  offset: 0, 0
-  index: -1
+bounds:1651,841,395,365
+offsets:0,0,468,365
 11
-  rotate: false
-  xy: 383, 500
-  size: 105, 74
-  orig: 105, 74
-  offset: 0, 0
-  index: -1
+bounds:568,2,282,200
 12
-  rotate: true
-  xy: 404, 83
-  size: 103, 75
-  orig: 103, 75
-  offset: 0, 0
-  index: -1
+bounds:2,1418,277,201
+rotate:90
 eyeclose
-  rotate: true
-  xy: 351, 911
-  size: 112, 96
-  orig: 174, 105
-  offset: 0, 9
-  index: -1
+bounds:1691,153,303,258
+offsets:0,24,468,282
 fronthair
-  rotate: true
-  xy: 370, 384
-  size: 114, 70
-  orig: 114, 70
-  offset: 0, 0
-  index: -1
+bounds:967,82,298,181
+offsets:4,4,306,189
 halo
-  rotate: true
-  xy: 249, 827
-  size: 195, 100
-  orig: 195, 100
-  offset: 0, 0
-  index: -1
+bounds:1432,1178,517,262
+offsets:4,4,525,270
+rotate:90
 koharu_swim
-  rotate: false
-  xy: 2, 47
-  size: 382, 976
-  orig: 382, 976
-  offset: 0, 0
-  index: -1
+bounds:2,378,1031,1317
+offsets:0,1317,1031,2634
+koharu_swimC
+bounds:954,264,489,1431
+offsets:193,1,1031,2634

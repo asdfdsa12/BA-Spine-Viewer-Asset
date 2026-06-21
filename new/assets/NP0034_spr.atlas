@@ -1,20 +1,11 @@
-
 NP0034_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.9
 NP0034
-  rotate: false
-  xy: 2, 282
-  size: 597, 742
-  orig: 734, 1224
-  offset: 137, 0
-  index: -1
+bounds:2,242,1193,1483
+offsets:275,1,1468,2448
 NP00345
-  rotate: true
-  xy: 496, 152
-  size: 734, 527
-  orig: 734, 1224
-  offset: 0, 697
-  index: -1
+bounds:993,2,1468,1053
+offsets:0,1394,1468,2448
+rotate:90

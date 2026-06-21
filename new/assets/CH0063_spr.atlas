@@ -1,46 +1,54 @@
 CH0063_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.06
 00_default
-	bounds: 249, 378, 245, 141
+bounds:1473,973,251,144
+offsets:11,10,273,164
 01_normal
-	bounds: 1492, 514, 245, 144
+bounds:2,1868,273,170
 02_respond
-	bounds: 1483, 1515, 245, 151
+bounds:1717,1722,251,155
+offsets:11,10,273,175
 03_smile
-	bounds: 1245, 510, 245, 148
+bounds:1717,1569,251,151
+offsets:11,11,273,172
 04_embarassed
-	bounds: 1801, 1512, 245, 164
+bounds:277,1874,251,164
+offsets:11,10,273,184
 05_serious
-	bounds: 2, 436, 245, 141
+bounds:1704,1119,251,144
+offsets:11,10,273,164
 06_depressed
-	bounds: 1004, 506, 239, 152
+bounds:2,1711,246,156
+offsets:11,10,268,176
 07
-	bounds: 1719, 1345, 228, 165
+bounds:997,1869,236,169
+offsets:11,10,257,190
 08
-	bounds: 450, 837, 239, 155
+bounds:1700,1879,246,159
+offsets:11,10,268,179
 09
-	bounds: 301, 521, 245, 150
+bounds:971,1714,251,153
+offsets:11,11,273,174
 10
-	bounds: 1739, 514, 244, 144
+bounds:1710,1417,251,150
+offsets:10,10,272,170
 CH0063
-	bounds: 2, 993, 1372, 1053
-	offsets: 1, 859, 1373, 1912
-CH0063_1
-	bounds: 707, 660, 1339, 870
-	offsets: 0, 0, 1373, 1912
+bounds:2,2,1470,2036
+offsets:0,4,1470,2042
 diorama_BG
-	bounds: 2, 579, 898, 448
-	offsets: 0, 0, 961, 494
-	rotate: 90
+bounds:1282,1166,872,434
+offsets:53,31,1035,541
+rotate:270
 diorama_particle
-	bounds: 428, 59, 763, 792
-	rotate: 90
-eye close
-	bounds: 496, 371, 239, 144
+bounds:1220,215,826,854
+eye_close
+bounds:1715,1265,246,150
+offsets:11,10,268,170
 fronthair
-	bounds: 1352, 1981, 128, 65
-	offsets: 88, 0, 216, 65
+bounds:1235,1954,145,84
+offsets:101,0,246,84
 halo
-	bounds: 1349, 1668, 697, 305
-	offsets: 1, 0, 698, 305
+bounds:1292,31,754,330
+offsets:2,3,756,338

@@ -1,118 +1,41 @@
-
 CH0197_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.15
 01_nomal
-  rotate: false
-  xy: 485, 835
-  size: 112, 93
-  orig: 112, 93
-  offset: 0, 0
-  index: -1
+bounds:1018,1407,263,217
 02_respod
-  rotate: false
-  xy: 189, 929
-  size: 112, 94
-  orig: 112, 94
-  offset: 0, 0
-  index: -1
+bounds:618,1405,263,220
 03_smile
-  rotate: false
-  xy: 482, 929
-  size: 112, 94
-  orig: 112, 94
-  offset: 0, 0
-  index: -1
+bounds:353,1405,263,220
 04_embarassed
-  rotate: false
-  xy: 2, 353
-  size: 112, 91
-  orig: 112, 91
-  offset: 0, 0
-  index: -1
+bounds:2,334,263,213
 05_serious
-  rotate: false
-  xy: 596, 933
-  size: 112, 89
-  orig: 112, 89
-  offset: 0, 0
-  index: -1
+bounds:2,123,263,209
 06_depressed
-  rotate: false
-  xy: 2, 264
-  size: 112, 87
-  orig: 112, 87
-  offset: 0, 0
-  index: -1
+bounds:267,124,263,204
 07
-  rotate: false
-  xy: 599, 843
-  size: 112, 89
-  orig: 112, 89
-  offset: 0, 0
-  index: -1
+bounds:267,330,263,208
 08
-  rotate: false
-  xy: 492, 648
-  size: 113, 91
-  orig: 113, 91
-  offset: 0, 0
-  index: -1
+bounds:1176,1796,265,213
 09
-  rotate: false
-  xy: 2, 77
-  size: 94, 91
-  orig: 94, 91
-  offset: 0, 0
-  index: -1
+bounds:1283,1581,221,213
 10
-  rotate: false
-  xy: 602, 748
-  size: 94, 94
-  orig: 94, 94
-  offset: 0, 0
-  index: -1
+bounds:2,688,220,220
 CH0197
-  rotate: false
-  xy: 2, 394
-  size: 804, 629
-  orig: 804, 1040
-  offset: 0, 0
-  index: -1
+bounds:2,1008,1886,1001
+offsets:0,474,1886,2440
 CH01978
-  rotate: true
-  xy: 570, 3
-  size: 568, 434
-  orig: 804, 1040
-  offset: 91, 606
-  index: -1
+bounds:224,2,1330,1017
+offsets:215,1423,1886,2440
+CH01979
+bounds:1190,188,820,1213
+offsets:353,0,1886,2440
 default
-  rotate: false
-  xy: 487, 740
-  size: 112, 93
-  orig: 112, 93
-  offset: 0, 0
-  index: -1
+bounds:2,910,263,217
 eyeclose
-  rotate: false
-  xy: 2, 169
-  size: 105, 93
-  orig: 105, 93
-  offset: 0, 0
-  index: -1
+bounds:1172,11,246,217
 front_hair
-  rotate: false
-  xy: 86, 668
-  size: 175, 193
-  orig: 175, 193
-  offset: 0, 0
-  index: -1
+bounds:762,1556,412,453
 halo
-  rotate: false
-  xy: 2, 860
-  size: 186, 163
-  orig: 186, 163
-  offset: 0, 0
-  index: -1
+bounds:324,1627,436,382

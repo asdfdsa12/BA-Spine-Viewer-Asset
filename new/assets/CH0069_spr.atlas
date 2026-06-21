@@ -1,251 +1,83 @@
-
 CH0069_spr.png
-size: 1024,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.9
 00
-  rotate: false
-  xy: 713, 522
-  size: 142, 107
-  orig: 142, 107
-  offset: 0, 0
-  index: -1
+bounds:1680,912,212,160
 01_normal
-  rotate: false
-  xy: 713, 522
-  size: 142, 107
-  orig: 142, 107
-  offset: 0, 0
-  index: -1
+bounds:1680,912,212,160
 02_respond
-  rotate: false
-  xy: 747, 630
-  size: 142, 109
-  orig: 142, 109
-  offset: 0, 0
-  index: -1
+bounds:1727,1252,212,163
 03_smile
-  rotate: false
-  xy: 845, 1226
-  size: 139, 115
-  orig: 139, 115
-  offset: 0, 0
-  index: -1
+bounds:1513,1458,208,172
 04_embarrassed
-  rotate: false
-  xy: 2, 1226
-  size: 143, 118
-  orig: 143, 118
-  offset: 0, 0
-  index: -1
+bounds:203,1559,215,177
 05_serious
-  rotate: false
-  xy: 843, 106
-  size: 141, 98
-  orig: 141, 98
-  offset: 0, 0
-  index: -1
+bounds:1371,451,212,147
 06_depressed
-  rotate: false
-  xy: 280, 8
-  size: 132, 97
-  orig: 132, 97
-  offset: 0, 0
-  index: -1
+bounds:1875,1601,198,146
+rotate:90
 07
-  rotate: false
-  xy: 138, 117
-  size: 131, 107
-  orig: 131, 107
-  offset: 0, 0
-  index: -1
+bounds:1875,1801,196,161
+rotate:90
 08
-  rotate: false
-  xy: 414, 3
-  size: 126, 102
-  orig: 126, 102
-  offset: 0, 0
-  index: -1
+bounds:2,1366,189,153
 09
-  rotate: false
-  xy: 219, 1183
-  size: 143, 115
-  orig: 143, 115
-  offset: 0, 0
-  index: -1
+bounds:29,1521,215,172
+rotate:90
 10
-  rotate: false
-  xy: 145, 331
-  size: 128, 116
-  orig: 128, 116
-  offset: 0, 0
-  index: -1
+bounds:1440,895,193,175
 11
-  rotate: false
-  xy: 878, 1342
-  size: 143, 121
-  orig: 143, 121
-  offset: 0, 0
-  index: -1
+bounds:828,1815,215,182
 12
-  rotate: false
-  xy: 857, 522
-  size: 142, 106
-  orig: 142, 106
-  offset: 0, 0
-  index: -1
+bounds:824,777,212,159
 13
-  rotate: false
-  xy: 275, 342
-  size: 141, 106
-  orig: 141, 106
-  offset: 0, 0
-  index: -1
+bounds:1038,772,212,158
 14
-  rotate: false
-  xy: 2, 264
-  size: 139, 106
-  orig: 139, 106
-  offset: 0, 0
-  index: -1
+bounds:1635,751,208,159
 15
-  rotate: false
-  xy: 2, 372
-  size: 141, 106
-  orig: 141, 106
-  offset: 0, 0
-  index: -1
+bounds:2,804,212,159
 16
-  rotate: false
-  xy: 2, 1104
-  size: 142, 121
-  orig: 142, 121
-  offset: 0, 0
-  index: -1
+bounds:1723,1417,213,181
+rotate:90
 17
-  rotate: false
-  xy: 741, 1114
-  size: 141, 110
-  orig: 141, 110
-  offset: 0, 0
-  index: -1
+bounds:1513,1250,212,165
 18
-  rotate: false
-  xy: 884, 1106
-  size: 131, 118
-  orig: 131, 118
-  offset: 0, 0
-  index: -1
+bounds:1482,1072,196,176
 19
-  rotate: false
-  xy: 891, 709
-  size: 131, 118
-  orig: 131, 118
-  offset: 0, 0
-  index: -1
+bounds:1727,1074,196,176
 20
-  rotate: false
-  xy: 271, 108
-  size: 141, 98
-  orig: 141, 98
-  offset: 0, 0
-  index: -1
+bounds:2,499,212,148
 21
-  rotate: false
-  xy: 137, 12
-  size: 141, 94
-  orig: 141, 94
-  offset: 0, 0
-  index: -1
+bounds:1585,308,212,141
 22
-  rotate: false
-  xy: 2, 1347
-  size: 143, 125
-  orig: 143, 125
-  offset: 0, 0
-  index: -1
+bounds:612,1810,214,187
 23
-  rotate: false
-  xy: 414, 108
-  size: 141, 98
-  orig: 141, 98
-  offset: 0, 0
-  index: -1
+bounds:1157,589,212,148
 24
-  rotate: false
-  xy: 146, 1081
-  size: 141, 100
-  orig: 141, 100
-  offset: 0, 0
-  index: -1
+bounds:1466,600,212,149
 25
-  rotate: true
-  xy: 909, 378
-  size: 141, 102
-  orig: 141, 102
-  offset: 0, 0
-  index: -1
+bounds:2,649,212,153
 26
-  rotate: false
-  xy: 2, 51
-  size: 134, 103
-  orig: 134, 103
-  offset: 0, 0
-  index: -1
+bounds:1140,433,201,154
 27
-  rotate: false
-  xy: 557, 107
-  size: 141, 98
-  orig: 141, 98
-  offset: 0, 0
-  index: -1
+bounds:1680,601,212,148
 28
-  rotate: false
-  xy: 700, 106
-  size: 141, 98
-  orig: 141, 98
-  offset: 0, 0
-  index: -1
+bounds:1680,451,212,148
 29
-  rotate: false
-  xy: 142, 227
-  size: 141, 103
-  orig: 141, 103
-  offset: 0, 0
-  index: -1
+bounds:1252,739,212,154
 CH0069
-  rotate: false
-  xy: 2, 1092
-  size: 1013, 749
-  orig: 1013, 1490
-  offset: 0, 741
-  index: -1
-CH00691
-  rotate: 180
-  xy: 9, 695
-  size: 1013, 405
-  orig: 1013, 1490
-  offset: 0, 443
-  index: -1
-CH00692
-  rotate: false
-  xy: 291, 206
-  size: 731, 489
-  orig: 1013, 1490
-  offset: 282, 0
-  index: -1
+bounds:2,2,1452,949
+offsets:0,1287,1519,2236
+rotate:180
+CH0069C
+bounds:2,926,1510,1071
+offsets:9,321,1519,2236
+CH0069C2
+bounds:2,1683,314,625
+offsets:677,0,1519,2236
+rotate:90
 Halo
-  rotate: false
-  xy: 2, 450
-  size: 415, 244
-  orig: 415, 244
-  offset: 0, 0
-  index: -1
+bounds:1250,1632,623,365
 eyeclose
-  rotate: false
-  xy: 2, 156
-  size: 134, 107
-  orig: 134, 107
-  offset: 0, 0
-  index: -1
+bounds:953,610,202,160

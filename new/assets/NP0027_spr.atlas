@@ -1,97 +1,40 @@
-
 NP0027_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.08
 01_nomal
-  rotate: false
-  xy: 2, 699
-  size: 21, 11
-  orig: 21, 11
-  offset: 0, 0
-  index: -1
+bounds:1295,1932,46,24
 eyeclose
-  rotate: false
-  xy: 2, 699
-  size: 21, 11
-  orig: 21, 11
-  offset: 0, 0
-  index: -1
+bounds:1295,1932,46,24
 02_respond
-  rotate: false
-  xy: 2, 712
-  size: 19, 19
-  orig: 19, 19
-  offset: 0, 0
-  index: -1
+bounds:665,1913,42,43
 03_smile
-  rotate: false
-  xy: 2, 768
-  size: 30, 19
-  orig: 30, 19
-  offset: 0, 0
-  index: -1
+bounds:1426,1914,67,42
 04_embarassed
-  rotate: false
-  xy: 2, 788
-  size: 47, 23
-  orig: 47, 23
-  offset: 0, 0
-  index: -1
+bounds:1187,1905,106,51
 05_serious
-  rotate: false
-  xy: 2, 750
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
+bounds:1495,1921,65,35
 06_depressed
-  rotate: false
-  xy: 2, 850
-  size: 46, 51
-  orig: 46, 51
-  offset: 0, 0
-  index: -1
+bounds:719,1842,104,114
 07
-  rotate: false
-  xy: 2, 813
-  size: 35, 35
-  orig: 35, 35
-  offset: 0, 0
-  index: -1
+bounds:1106,1878,79,78
 Gehenna_Pandemonium
-  rotate: false
-  xy: 2, 246
-  size: 527, 777
-  orig: 752, 1506
-  offset: 219, 0
-  index: -1
+bounds:791,846,1110,888
+offsets:494,860,1691,3388
+rotate:90
 Gehenna_Pandemonium_0
-  rotate: false
-  xy: 480, 328
-  size: 373, 596
-  orig: 752, 1506
-  offset: 379, 749
-  index: -1
+bounds:2,617,837,1339
+offsets:854,1687,1691,3388
 Gehenna_Pandemonium_1
-  rotate: false
-  xy: 596, 174
-  size: 427, 730
-  orig: 752, 1506
-  offset: 0, 776
-  index: -1
+bounds:1089,2,957,1641
+offsets:2,1747,1691,3388
+Gehenna_Pandemonium_2
+bounds:620,138,307,969
+offsets:839,4,1691,3388
+Gehenna_Pandemonium_3
+bounds:1659,218,387,969
+offsets:1298,0,1691,3388
 default
-  rotate: false
-  xy: 2, 733
-  size: 25, 15
-  orig: 25, 15
-  offset: 0, 0
-  index: -1
+bounds:2,1923,57,33
 halo_01
-  rotate: false
-  xy: 2, 902
-  size: 118, 121
-  orig: 118, 121
-  offset: 0, 0
-  index: -1
+bounds:839,1684,265,272

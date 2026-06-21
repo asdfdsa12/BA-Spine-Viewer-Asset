@@ -1,251 +1,82 @@
-
 NP0040_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-00_eyeclose2
-  rotate: false
-  xy: 892, 74
-  size: 117, 79
-  orig: 117, 79
-  offset: 0, 0
-  index: -1
-01_normal
-  rotate: false
-  xy: 2, 50
-  size: 117, 79
-  orig: 117, 79
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.1
 00_default
-  rotate: false
-  xy: 2, 50
-  size: 117, 79
-  orig: 117, 79
-  offset: 0, 0
-  index: -1
+bounds:1092,225,234,157
+01_normal
+bounds:1092,225,234,157
+00_eyeclose2
+bounds:1542,250,234,157
 02_respond
-  rotate: false
-  xy: 903, 415
-  size: 117, 87
-  orig: 117, 87
-  offset: 0, 0
-  index: -1
+bounds:1799,864,234,174
 03_smile
-  rotate: false
-  xy: 774, 22
-  size: 106, 78
-  orig: 106, 78
-  offset: 0, 0
-  index: -1
+bounds:1560,92,212,156
 04_embarassed
-  rotate: false
-  xy: 894, 154
-  size: 116, 86
-  orig: 116, 86
-  offset: 0, 0
-  index: -1
+bounds:1799,689,231,173
 05_serious
-  rotate: true
-  xy: 471, 52
-  size: 117, 71
-  orig: 117, 71
-  offset: 0, 0
-  index: -1
+bounds:1066,81,234,142
 06_depressed
-  rotate: true
-  xy: 943, 619
-  size: 115, 73
-  orig: 115, 73
-  offset: 0, 0
-  index: -1
+bounds:1328,102,230,146
 07
-  rotate: false
-  xy: 550, 86
-  size: 106, 89
-  orig: 106, 89
-  offset: 0, 0
-  index: -1
+bounds:1328,280,212,177
 08
-  rotate: true
-  xy: 943, 854
-  size: 117, 76
-  orig: 117, 76
-  offset: 0, 0
-  index: -1
+bounds:912,139,233,152
+rotate:90
 09
-  rotate: false
-  xy: 544, 10
-  size: 106, 74
-  orig: 106, 74
-  offset: 0, 0
-  index: -1
+bounds:1774,44,212,149
 10
-  rotate: false
-  xy: 349, 13
-  size: 115, 72
-  orig: 115, 72
-  offset: 0, 0
-  index: -1
+bounds:467,59,230,144
 11
-  rotate: true
-  xy: 943, 736
-  size: 117, 75
-  orig: 117, 75
-  offset: 0, 0
-  index: -1
+bounds:2,139,233,151
 12
-  rotate: false
-  xy: 121, 45
-  size: 107, 84
-  orig: 107, 84
-  offset: 0, 0
-  index: -1
+bounds:695,205,215,167
 13
-  rotate: false
-  xy: 658, 125
-  size: 117, 81
-  orig: 117, 81
-  offset: 0, 0
-  index: -1
+bounds:231,292,233,163
 14
-  rotate: false
-  xy: 230, 48
-  size: 117, 76
-  orig: 117, 76
-  offset: 0, 0
-  index: -1
+bounds:1778,195,233,153
 15
-  rotate: false
-  xy: 902, 243
-  size: 119, 84
-  orig: 119, 84
-  offset: 0, 0
-  index: -1
+bounds:1797,520,239,167
 16
-  rotate: false
-  xy: 903, 329
-  size: 117, 84
-  orig: 117, 84
-  offset: 0, 0
-  index: -1
+bounds:1878,1736,233,167
+rotate:90
 17
-  rotate: false
-  xy: 2, 131
-  size: 118, 84
-  orig: 118, 84
-  offset: 0, 0
-  index: -1
+bounds:1781,350,237,168
 18
-  rotate: false
-  xy: 356, 88
-  size: 113, 82
-  orig: 113, 82
-  offset: 0, 0
-  index: -1
+bounds:466,287,227,164
 19
-  rotate: false
-  xy: 908, 504
-  size: 113, 91
-  orig: 113, 91
-  offset: 0, 0
-  index: -1
+bounds:1819,1040,227,182
 20
-  rotate: false
-  xy: 240, 126
-  size: 113, 84
-  orig: 113, 84
-  offset: 0, 0
-  index: -1
+bounds:2,292,227,168
 21
-  rotate: false
-  xy: 777, 103
-  size: 113, 84
-  orig: 113, 84
-  offset: 0, 0
-  index: -1
+bounds:1878,1272,227,167
+rotate:90
 22
-  rotate: false
-  xy: 122, 131
-  size: 117, 82
-  orig: 117, 82
-  offset: 0, 0
-  index: -1
+bounds:1878,1501,233,164
+rotate:90
 23
-  rotate: false
-  xy: 658, 48
-  size: 114, 76
-  orig: 114, 76
-  offset: 0, 0
-  index: -1
+bounds:237,133,228,152
 24
-  rotate: false
-  xy: 882, 4
-  size: 115, 68
-  orig: 115, 68
-  offset: 0, 0
-  index: -1
+bounds:699,2,230,135
 Halo_1
-  rotate: false
-  xy: 425, 172
-  size: 330, 207
-  orig: 330, 207
-  offset: 0, 0
-  index: -1
+bounds:847,374,660,414
 Halo_2
-  rotate: false
-  xy: 43, 779
-  size: 162, 95
-  orig: 162, 95
-  offset: 0, 0
-  index: -1
+bounds:85,1589,325,189
 Halo_3
-  rotate: 270
-  xy: 713, 585
-  size: 385, 228
-  orig: 385, 228
-  offset: 0, 0
-  index: -1
+bounds:1420,1199,770,457
+rotate:270
 Halo_4
-  rotate: true
-  xy: 681, 319
-  size: 385, 221
-  orig: 385, 221
-  offset: 0, 0
-  index: -1
+bounds:1356,669,770,441
+rotate:90
 Halo_5
-  rotate: false
-  xy: 2, 864
-  size: 110, 107
-  orig: 110, 107
-  offset: 0, 0
-  index: -1
+bounds:2,1756,220,213
 Halo_6
-  rotate: false
-  xy: 114, 931
-  size: 39, 40
-  orig: 39, 40
-  offset: 0, 0
-  index: -1
+bounds:224,1890,77,79
 NP0040
-  rotate: false
-  xy: 2, 211
-  size: 449, 760
-  orig: 449, 1353
-  offset: 0, 0
-  index: -1
+bounds:2,449,898,1520
+offsets:0,0,898,2706
 NP00402
-  rotate: false
-  xy: 341, 372
-  size: 374, 599
-  orig: 449, 1353
-  offset: 41, 729
-  index: -1
+bounds:679,771,746,1198
+offsets:83,1458,898,2706
 fronthair
-  rotate: false
-  xy: 757, 188
-  size: 135, 166
-  orig: 135, 166
-  offset: 0, 0
-  index: -1
+bounds:1509,409,270,332

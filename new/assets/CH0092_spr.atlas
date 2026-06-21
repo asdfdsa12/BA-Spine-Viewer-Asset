@@ -1,237 +1,79 @@
-
 CH0092_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:4096,2048
+filter:Linear,Linear
+scale:1.1
 00_defualt
-  rotate: false
-  xy: 2, 134
-  size: 108, 101
-  orig: 108, 101
-  offset: 0, 0
-  index: -1
+bounds:978,811,237,222
 01_normal
-  rotate: false
-  xy: 250, 355
-  size: 108, 90
-  orig: 108, 90
-  offset: 0, 0
-  index: -1
+bounds:2,1558,237,197
 02_respond
-  rotate: false
-  xy: 142, 353
-  size: 107, 95
-  orig: 107, 95
-  offset: 0, 0
-  index: -1
+bounds:238,420,234,208
 03_smile
-  rotate: false
-  xy: 2, 237
-  size: 105, 104
-  orig: 105, 104
-  offset: 0, 0
-  index: -1
+bounds:2,921,230,228
 04_embarassed
-  rotate: false
-  xy: 111, 136
-  size: 107, 96
-  orig: 107, 96
-  offset: 0, 0
-  index: -1
+bounds:2,418,234,210
 05_serious
-  rotate: false
-  xy: 110, 938
-  size: 107, 85
-  orig: 107, 85
-  offset: 0, 0
-  index: -1
+bounds:3860,73,234,186
 06_depressed
-  rotate: false
-  xy: 1097, 932
-  size: 104, 91
-  orig: 104, 91
-  offset: 0, 0
-  index: -1
+bounds:470,215,229,199
 07_upset
-  rotate: false
-  xy: 219, 41
-  size: 107, 94
-  orig: 107, 94
-  offset: 0, 0
-  index: -1
+bounds:474,416,234,206
 08_shout
-  rotate: false
-  xy: 2, 33
-  size: 107, 99
-  orig: 107, 99
-  offset: 0, 0
-  index: -1
+bounds:3860,805,234,218
 09_shy 1
-  rotate: false
-  xy: 219, 161
-  size: 107, 92
-  orig: 107, 92
-  offset: 0, 0
-  index: -1
+bounds:1065,403,234,202
 10_shy 2
-  rotate: false
-  xy: 1415, 936
-  size: 104, 86
-  orig: 104, 86
-  offset: 0, 0
-  index: -1
+bounds:1170,42,228,189
 11_question
-  rotate: false
-  xy: 110, 35
-  size: 107, 98
-  orig: 107, 98
-  offset: 0, 0
-  index: -1
+bounds:3824,588,234,215
 12_surprised
-  rotate: false
-  xy: 108, 249
-  size: 107, 99
-  orig: 107, 99
-  offset: 0, 0
-  index: -1
+bounds:3588,761,234,217
 13_calm smile 1
-  rotate: false
-  xy: 433, 6
-  size: 104, 81
-  orig: 104, 81
-  offset: 0, 0
-  index: -1
+bounds:2,39,228,178
 14_calm smile 2
-  rotate: false
-  xy: 1112, 3
-  size: 102, 87
-  orig: 102, 87
-  offset: 0, 0
-  index: -1
+bounds:3634,40,224,190
 15_bitter_smile 1
-  rotate: false
-  xy: 1203, 932
-  size: 105, 90
-  orig: 105, 90
-  offset: 0, 0
-  index: -1
+bounds:938,203,230,198
 16_bitter_smile 2
-  rotate: false
-  xy: 1309, 932
-  size: 104, 90
-  orig: 104, 90
-  offset: 0, 0
-  index: -1
+bounds:701,170,229,198
 17_excuse
-  rotate: false
-  xy: 359, 406
-  size: 103, 94
-  orig: 103, 94
-  offset: 0, 0
-  index: -1
+bounds:710,370,226,206
 18_worry 1
-  rotate: false
-  xy: 328, 171
-  size: 105, 91
-  orig: 105, 91
-  offset: 0, 0
-  index: -1
+bounds:2326,216,230,199
 19_worry 2
-  rotate: false
-  xy: 217, 255
-  size: 105, 96
-  orig: 105, 96
-  offset: 0, 0
-  index: -1
+bounds:3864,1263,230,210
 20_inocent
-  rotate: false
-  xy: 248, 455
-  size: 107, 92
-  orig: 107, 92
-  offset: 0, 0
-  index: -1
+bounds:1027,607,234,202
 21_boring
-  rotate: false
-  xy: 327, 68
-  size: 104, 92
-  orig: 104, 92
-  offset: 0, 0
-  index: -1
+bounds:239,217,229,201
 22_trick
-  rotate: false
-  xy: 2, 919
-  size: 106, 104
-  orig: 106, 104
-  offset: 0, 0
-  index: -1
+bounds:2132,1527,233,228
 CH0092
-  rotate: 270
-  xy: 1276, 3
-  size: 387, 631
-  orig: 532, 1154
-  offset: 32, 0
-  index: -1
+bounds:2555,66,683,1384
+offsets:111,0,1169,2538
+rotate:90
 CH00920
-  rotate: true
-  xy: 1359, 420
-  size: 532, 549
-  orig: 532, 1154
-  offset: 0, 605
-  index: -1
+bounds:2422,548,1169,1207
+offsets:0,1331,1169,2538
 blush
-  rotate: false
-  xy: 218, 967
-  size: 112, 55
-  orig: 112, 55
-  offset: 0, 0
-  index: -1
+bounds:3556,638,246,121
 blush_plus
-  rotate: false
-  xy: 932, 968
-  size: 112, 55
-  orig: 112, 55
-  offset: 0, 0
-  index: -1
+bounds:240,1634,246,121
 diorama
-  rotate: false
-  xy: 2, 12
-  size: 1410, 1011
-  orig: 1410, 1020
-  offset: 0, 9
-  index: -1
+bounds:2,2,2481,1753
+offsets:0,16,2481,1794
+dioramac
+bounds:2,551,387,1063
+offsets:1021,1055,3101,2243
+rotate:90
 eyeclose
-  rotate: false
-  xy: 323, 264
-  size: 107, 90
-  orig: 107, 90
-  offset: 0, 0
-  index: -1
+bounds:2,219,235,197
 fronthair
-  rotate: false
-  xy: 2, 343
-  size: 138, 143
-  orig: 138, 143
-  offset: 0, 0
-  index: -1
+bounds:3592,980,304,314
 halo 1
-  rotate: false
-  xy: 2, 643
-  size: 97, 81
-  orig: 97, 81
-  offset: 0, 0
-  index: -1
+bounds:1907,1578,212,177
 halo 2
-  rotate: false
-  xy: 2, 449
-  size: 245, 206
-  orig: 245, 206
-  offset: 0, 0
-  index: -1
+bounds:3463,1216,539,452
+rotate:270
 sweat
-  rotate: false
-  xy: 2, 909
-  size: 7, 8
-  orig: 7, 8
-  offset: 0, 0
-  index: -1
+bounds:395,1737,15,18

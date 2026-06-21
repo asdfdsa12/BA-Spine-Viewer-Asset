@@ -1,209 +1,67 @@
-
 CH0175_spr.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:4096,4096
+filter:Linear,Linear
 00_defualt_mask
-  rotate: false
-  xy: 571, 1032
-  size: 195, 240
-  orig: 195, 240
-  offset: 0, 0
-  index: -1
+bounds:2652,3185,390,480
 00_defualt_mask_00
-  rotate: false
-  xy: 571, 1032
-  size: 195, 240
-  orig: 195, 240
-  offset: 0, 0
-  index: -1
+bounds:2652,3185,390,480
 00_defualt_non
-  rotate: false
-  xy: 2, 446
-  size: 99, 88
-  orig: 99, 88
-  offset: 0, 0
-  index: -1
+bounds:2898,2497,198,176
 01_normal
-  rotate: false
-  xy: 2, 446
-  size: 99, 88
-  orig: 99, 88
-  offset: 0, 0
-  index: -1
+bounds:2898,2497,198,176
 00_eyeclose
-  rotate: false
-  xy: 1258, 1166
-  size: 98, 88
-  orig: 98, 88
-  offset: 0, 0
-  index: -1
+bounds:3796,2378,196,176
 02_respond
-  rotate: false
-  xy: 2, 536
-  size: 100, 88
-  orig: 100, 88
-  offset: 0, 0
-  index: -1
+bounds:2697,2519,199,176
 03_smile
-  rotate: false
-  xy: 2, 626
-  size: 117, 88
-  orig: 117, 88
-  offset: 0, 0
-  index: -1
+bounds:1562,3489,233,176
 04_embarrassed
-  rotate: false
-  xy: 120, 608
-  size: 100, 88
-  orig: 100, 88
-  offset: 0, 0
-  index: -1
+bounds:3894,2556,200,176
 05_serious
-  rotate: false
-  xy: 1158, 1692
-  size: 102, 106
-  orig: 102, 106
-  offset: 0, 0
-  index: -1
+bounds:2866,2697,204,212
 06_depressed
-  rotate: false
-  xy: 959, 1534
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:3072,2859,253,182
 07_tears
-  rotate: false
-  xy: 696, 1020
-  size: 127, 99
-  orig: 127, 99
-  offset: 0, 0
-  index: -1
+bounds:2262,3467,253,198
 08_tears
-  rotate: false
-  xy: 744, 1121
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:3735,2989,253,182
 09_irritated
-  rotate: false
-  xy: 521, 554
-  size: 99, 88
-  orig: 99, 88
-  offset: 0, 0
-  index: -1
+bounds:3098,2497,197,176
 10_shout
-  rotate: false
-  xy: 2, 1809
-  size: 100, 83
-  orig: 100, 83
-  offset: 0, 0
-  index: -1
+bounds:2,3500,200,165
 11_shy
-  rotate: false
-  xy: 358, 701
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:3198,3115,253,182
 12_heart
-  rotate: false
-  xy: 392, 608
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:3243,3299,253,182
 13_heart
-  rotate: false
-  xy: 486, 754
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:3818,3483,253,182
 14_respond
-  rotate: false
-  xy: 790, 1800
-  size: 100, 91
-  orig: 100, 91
-  offset: 0, 0
-  index: -1
+bounds:3072,2675,199,182
 15_smile
-  rotate: false
-  xy: 1158, 1800
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:3241,3483,253,182
 Halo
-  rotate: false
-  xy: 868, 47
-  size: 238, 298
-  orig: 239, 298
-  offset: 1, 0
-  index: -1
+bounds:1786,3069,475,596
+offsets:2,0,477,596
 Umbrella 1
-  rotate: false
-  xy: 2, 89
-  size: 971, 942
-  orig: 971, 942
-  offset: 0, 0
-  index: -1
+bounds:1766,1723,1942,1883
+rotate:90
 diorama_01
-  rotate: false
-  xy: 2, 792
-  size: 891, 1100
-  orig: 891, 1100
-  offset: 0, 0
-  index: -1
+bounds:2,1465,1782,2200
 diorama_02
-  rotate: false
-  xy: 1690, 148
-  size: 256, 566
-  orig: 256, 566
-  offset: 0, 0
-  index: -1
+bounds:2,343,511,1131
 diorama_03
-  rotate: false
-  xy: 895, 1627
-  size: 262, 265
-  orig: 262, 265
-  offset: 0, 0
-  index: -1
+bounds:3571,1683,523,529
 diorama_particle_01
-  rotate: false
-  xy: 1377, 1157
-  size: 554, 734
-  orig: 554, 734
-  offset: 0, 0
-  index: -1
+bounds:2626,478,1108,1468
+rotate:90
 diorama_particle_02
-  rotate: 180
-  xy: 2, 4
-  size: 325, 302
-  orig: 325, 302
-  offset: 0, 0
-  index: -1
+bounds:1962,177,649,603
 diorama_particle_03
-  rotate: true
-  xy: 1286, 951
-  size: 305, 688
-  orig: 305, 688
-  offset: 0, 0
-  index: -1
+bounds:3327,2290,609,1375
 head
-  rotate: true
-  xy: 953, 122
-  size: 828, 767
-  orig: 1090, 1299
-  offset: 191, 532
-  index: -1
+bounds:441,2,1654,1532
+offsets:383,1065,2179,2597
+rotate:180
 head_0
-  rotate: true
-  xy: 881, 678
-  size: 1090, 575
-  orig: 1090, 1299
-  offset: 0, 0
-  index: -1
+bounds:1117,777,2179,1150
+offsets:0,0,2179,2597

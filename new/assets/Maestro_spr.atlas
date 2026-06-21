@@ -1,20 +1,8 @@
-
 Maestro_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.05
 Maestro_00
-  rotate: false
-  xy: 2, 186
-  size: 544, 735
-  orig: 544, 735
-  offset: 0, 0
-  index: -1
+bounds:2,2,1142,1543
 Maestro_01
-  rotate: false
-  xy: 548, 306
-  size: 373, 615
-  orig: 373, 615
-  offset: 0, 0
-  index: -1
+bounds:1146,253,782,1292

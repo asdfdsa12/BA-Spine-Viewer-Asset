@@ -1,195 +1,100 @@
-
 CH0185_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
 00_default
-  rotate: false
-  xy: 352, 470
-  size: 103, 98
-  orig: 103, 259
-  offset: 0, 0
-  index: -1
+bounds:635,383,205,195
+offsets:0,0,205,517
 00_eyeclose
-  rotate: false
-  xy: 713, 595
-  size: 103, 88
-  orig: 103, 88
-  offset: 0, 0
-  index: -1
+bounds:924,170,205,176
 01_normal
-  rotate: false
-  xy: 2, 54
-  size: 103, 95
-  orig: 103, 255
-  offset: 0, 0
-  index: -1
+bounds:1868,1222,205,178
+offsets:0,0,205,509
+rotate:90
 02_respond
-  rotate: false
-  xy: 2, 151
-  size: 103, 95
-  orig: 103, 256
-  offset: 0, 0
-  index: -1
+bounds:1634,24,205,176
+offsets:0,0,205,511
 03_smile
-  rotate: false
-  xy: 757, 779
-  size: 104, 85
-  orig: 104, 85
-  offset: 0, 0
-  index: -1
+bounds:1243,680,207,170
 04_embrassed
-  rotate: false
-  xy: 817, 605
-  size: 103, 78
-  orig: 103, 78
-  offset: 0, 0
-  index: -1
+bounds:1841,129,205,156
 05_serious
-  rotate: false
-  xy: 736, 686
-  size: 103, 92
-  orig: 103, 255
-  offset: 0, 0
-  index: -1
+bounds:1660,1541,205,184
+offsets:0,0,205,509
+rotate:90
 06_deprssed
-  rotate: false
-  xy: 776, 866
-  size: 99, 74
-  orig: 99, 74
-  offset: 0, 0
-  index: -1
+bounds:2,1001,198,148
 CH0185
-  rotate: true
-  xy: 2, 670
-  size: 349, 558
-  orig: 349, 994
-  offset: 0, 436
-  index: -1
+bounds:1034,844,698,1126
+offsets:0,862,698,1988
+rotate:180
 CH01855
-  rotate: false
-  xy: 1263, 83
-  size: 221, 461
-  orig: 349, 994
-  offset: 30, 0
-  index: -1
+bounds:2,54,402,921
+offsets:61,0,698,1988
+rotate:90
 diorama_00
-  rotate: true
-  xy: 1073, 3
-  size: 676, 718
-  orig: 676, 718
-  offset: 0, 0
-  index: -1
+bounds:507,1866,153,104
+offsets:0,681,1352,1436
+diorama_00_2
+bounds:1104,1695,160,109
+offsets:63,0,1352,1436
+diorama_00_3
+bounds:1039,1574,115,161
+offsets:1207,157,1352,1436
+diorama_00_4
+bounds:357,1883,124,87
+offsets:1123,532,1352,1436
+diorama_00_5
+bounds:173,1914,84,56
+offsets:1268,1089,1352,1436
+diorama_00_6
+bounds:255,1918,136,52
+offsets:1048,1384,1352,1436
 diorama_01
-  rotate: false
-  xy: 162, 989
-  size: 25, 31
-  orig: 145, 328
-  offset: 120, 297
-  index: -1
+bounds:2,1910,49,60
+offsets:241,595,290,655
 diorama_02
-  rotate: false
-  xy: 2, 66
-  size: 792, 953
-  orig: 861, 953
-  offset: 0, 0
-  index: -1
+bounds:1695,838,331,1132
+offsets:1053,0,1550,1715
 diorama_022
-  rotate: false
-  xy: 206, 979
-  size: 35, 41
-  orig: 145, 328
-  offset: 0, 0
-  index: -1
+bounds:610,1759,69,81
+offsets:0,0,290,655
 diorama_0233
-  rotate: false
-  xy: 210, 720
-  size: 39, 47
-  orig: 861, 953
-  offset: 822, 711
-  index: -1
+bounds:626,1841,78,93
+offsets:1644,1423,1722,1906
+diorama_02_2
+bounds:2,1027,1107,943
+offsets:0,772,1550,1715
 diorama_03
-  rotate: false
-  xy: 652, 150
-  size: 569, 869
-  orig: 592, 869
-  offset: 0, 0
-  index: -1
+bounds:1133,2,414,913
+offsets:358,0,1065,1564
+rotate:90
+diorama_03_2
+bounds:2,408,998,681
+offsets:0,883,1065,1564
+rotate:180
 diorama_04
-  rotate: true
-  xy: 1032, 398
-  size: 621, 267
-  orig: 621, 267
-  offset: 0, 0
-  index: -1
+bounds:928,312,1118,480
+rotate:180
 etc1
-  rotate: false
-  xy: 558, 788
-  size: 103, 92
-  orig: 103, 92
-  offset: 0, 0
-  index: -1
+bounds:1131,131,205,184
 etc2
-  rotate: false
-  xy: 247, 566
-  size: 103, 103
-  orig: 103, 103
-  offset: 0, 0
-  index: -1
+bounds:1775,752,205,205
 etc3
-  rotate: false
-  xy: 351, 569
-  size: 114, 100
-  orig: 114, 259
-  offset: 0, 0
-  index: -1
+bounds:1818,959,228,170
+offsets:0,0,228,517
 etc4
-  rotate: false
-  xy: 472, 429
-  size: 102, 259
-  orig: 102, 259
-  offset: 0, 0
-  index: -1
+bounds:829,852,204,174
+offsets:0,0,204,517
 etc5
-  rotate: false
-  xy: 2, 630
-  size: 115, 107
-  orig: 115, 259
-  offset: 0, 0
-  index: -1
+bounds:1031,1780,230,190
+offsets:0,0,230,517
 etc6
-  rotate: false
-  xy: 561, 882
-  size: 103, 92
-  orig: 103, 92
-  offset: 0, 0
-  index: -1
+bounds:1035,752,206,183
 etc7
-  rotate: false
-  xy: 119, 607
-  size: 108, 111
-  orig: 108, 111
-  offset: 0, 0
-  index: -1
+bounds:1699,1748,215,222
 glass
-  rotate: false
-  xy: 840, 705
-  size: 110, 51
-  orig: 110, 51
-  offset: 0, 0
-  index: -1
+bounds:414,414,219,101
 haircover
-  rotate: false
-  xy: 499, 677
-  size: 149, 109
-  orig: 149, 109
-  offset: 0, 0
-  index: -1
+bounds:2,1143,297,218
 halo
-  rotate: false
-  xy: 690, 444
-  size: 162, 149
-  orig: 162, 149
-  offset: 0, 0
-  index: -1
+bounds:705,1672,324,298

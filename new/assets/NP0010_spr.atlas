@@ -1,251 +1,94 @@
-
 NP0010_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.95
 00
-  rotate: false
-  xy: 2, 315
-  size: 101, 77
-  orig: 101, 77
-  offset: 0, 0
-  index: -1
+bounds:1599,442,224,169
+rotate:90
 01_normal
-  rotate: false
-  xy: 2, 315
-  size: 101, 77
-  orig: 101, 77
-  offset: 0, 0
-  index: -1
+bounds:1599,442,224,169
+rotate:90
 02_respond
-  rotate: false
-  xy: 2, 760
-  size: 101, 78
-  orig: 101, 78
-  offset: 0, 0
-  index: -1
+bounds:1530,1376,224,172
+rotate:90
 03_smile
-  rotate: false
-  xy: 911, 934
-  size: 99, 82
-  orig: 99, 82
-  offset: 0, 0
-  index: -1
+bounds:1448,963,219,181
+rotate:90
 04_embarrassed
-  rotate: false
-  xy: 572, 932
-  size: 103, 85
-  orig: 103, 85
-  offset: 0, 0
-  index: -1
+bounds:389,1056,227,187
+rotate:90
 05_serious
-  rotate: false
-  xy: 823, 70
-  size: 101, 70
-  orig: 101, 70
-  offset: 0, 0
-  index: -1
+bounds:227,23,223,155
 06_depressed
-  rotate: false
-  xy: 383, 66
-  size: 95, 70
-  orig: 95, 70
-  offset: 0, 0
-  index: -1
+bounds:1772,2,209,154
 07
-  rotate: true
-  xy: 106, 923
-  size: 94, 77
-  orig: 94, 77
-  offset: 0, 0
-  index: -1
+bounds:1836,975,207,170
+rotate:90
 08
-  rotate: 180
-  xy: 480, 61
-  size: 90, 73
-  orig: 90, 73
-  offset: 0, 0
-  index: -1
+bounds:666,16,200,162
 09
-  rotate: false
-  xy: 587, 848
-  size: 103, 82
-  orig: 103, 82
-  offset: 0, 0
-  index: -1
+bounds:1483,734,227,181
+rotate:90
 10
-  rotate: false
-  xy: 208, 220
-  size: 92, 83
-  orig: 92, 83
-  offset: 0, 0
-  index: -1
+bounds:1701,1814,203,184
+rotate:90
 11
-  rotate: false
-  xy: 467, 930
-  size: 103, 87
-  orig: 103, 87
-  offset: 0, 0
-  index: -1
+bounds:375,832,227,192
 12
-  rotate: false
-  xy: 105, 249
-  size: 101, 76
-  orig: 101, 76
-  offset: 0, 0
-  index: -1
+bounds:1666,668,224,168
+rotate:90
 13
-  rotate: false
-  xy: 739, 214
-  size: 101, 76
-  orig: 101, 76
-  offset: 0, 0
-  index: -1
+bounds:1704,1184,223,167
+rotate:90
 14
-  rotate: false
-  xy: 302, 227
-  size: 99, 76
-  orig: 99, 76
-  offset: 0, 0
-  index: -1
+bounds:1753,1409,219,168
+rotate:90
 15
-  rotate: false
-  xy: 2, 237
-  size: 101, 76
-  orig: 101, 76
-  offset: 0, 0
-  index: -1
+bounds:1666,959,223,168
+rotate:90
 16
-  rotate: false
-  xy: 2, 839
-  size: 102, 86
-  orig: 102, 86
-  offset: 0, 0
-  index: -1
+bounds:1463,1183,225,191
 17
-  rotate: false
-  xy: 590, 768
-  size: 101, 79
-  orig: 101, 79
-  offset: 0, 0
-  index: -1
+bounds:1525,1794,223,174
+rotate:90
 18
-  rotate: false
-  xy: 641, 406
-  size: 94, 84
-  orig: 94, 84
-  offset: 0, 0
-  index: -1
+bounds:1547,158,207,186
 19
-  rotate: false
-  xy: 10, 394
-  size: 94, 84
-  orig: 94, 84
-  offset: 0, 0
-  index: -1
+bounds:1544,1602,207,186
 20
-  rotate: true
-  xy: 945, 188
-  size: 101, 71
-  orig: 101, 71
-  offset: 0, 0
-  index: -1
+bounds:872,22,223,156
 21
-  rotate: false
-  xy: 280, 68
-  size: 101, 68
-  orig: 101, 68
-  offset: 0, 0
-  index: -1
+bounds:1547,7,223,149
 22
-  rotate: false
-  xy: 2, 927
-  size: 102, 89
-  orig: 102, 89
-  offset: 0, 0
-  index: -1
+bounds:2,1363,226,198
 23
-  rotate: true
-  xy: 208, 117
-  size: 101, 71
-  orig: 101, 71
-  offset: 0, 0
-  index: -1
+bounds:1097,22,223,156
 24
-  rotate: false
-  xy: 842, 142
-  size: 101, 71
-  orig: 101, 71
-  offset: 0, 0
-  index: -1
+bounds:1836,734,223,158
+rotate:90
 25
-  rotate: false
-  xy: 105, 174
-  size: 101, 73
-  orig: 101, 73
-  offset: 0, 0
-  index: -1
+bounds:1770,443,223,162
+rotate:90
 26
-  rotate: false
-  xy: 2, 83
-  size: 96, 74
-  orig: 96, 74
-  offset: 0, 0
-  index: -1
+bounds:452,16,212,162
 27
-  rotate: false
-  xy: 100, 102
-  size: 101, 71
-  orig: 101, 71
-  offset: 0, 0
-  index: -1
+bounds:1322,22,223,156
 28
-  rotate: true
-  xy: 945, 85
-  size: 101, 71
-  orig: 101, 71
-  offset: 0, 0
-  index: -1
+bounds:2,22,223,156
 29
-  rotate: false
-  xy: 842, 216
-  size: 101, 74
-  orig: 101, 74
-  offset: 0, 0
-  index: -1
+bounds:1756,158,223,162
+rotate:90
 Halo
-  rotate: false
-  xy: 106, 306
-  size: 298, 175
-  orig: 298, 175
-  offset: 0, 0
-  index: -1
+bounds:2,676,657,386
+rotate:90
 NP0010
-  rotate: 180
-  xy: 2, 480
-  size: 726, 537
-  orig: 726, 1068
-  offset: 0, 531
-  index: -1
-NP00101
-  rotate: true
-  xy: 721, 291
-  size: 726, 291
-  orig: 726, 1068
-  offset: 0, 317
-  index: -1
-NP001011
-  rotate: false
-  xy: 297, 135
-  size: 524, 351
-  orig: 726, 1068
-  offset: 202, 0
-  index: -1
+bounds:2,908,1541,1109
+offsets:0,1251,1604,2360
+NP0010C
+bounds:2,179,1597,728
+offsets:7,617,1604,2360
+NP0010C2
+bounds:1147,816,356,659
+offsets:688,0,1604,2360
 eyeclose
-  rotate: false
-  xy: 2, 159
-  size: 96, 77
-  orig: 96, 77
-  offset: 0, 0
-  index: -1
+bounds:1753,1643,213,169

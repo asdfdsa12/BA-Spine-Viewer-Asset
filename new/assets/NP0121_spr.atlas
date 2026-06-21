@@ -1,104 +1,37 @@
-
 NP0121_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.5
 00_eye close
-  rotate: false
-  xy: 411, 14
-  size: 115, 87
-  orig: 115, 87
-  offset: 0, 0
-  index: -1
+bounds:1702,96,287,218
 01_normal
-  rotate: false
-  xy: 653, 172
-  size: 116, 87
-  orig: 116, 87
-  offset: 0, 0
-  index: -1
+bounds:1539,316,290,218
 default
-  rotate: false
-  xy: 653, 172
-  size: 116, 87
-  orig: 116, 87
-  offset: 0, 0
-  index: -1
+bounds:1539,316,290,218
 02_respond
-  rotate: false
-  xy: 2, 603
-  size: 116, 89
-  orig: 116, 89
-  offset: 0, 0
-  index: -1
+bounds:1681,1085,290,224
 03_smile
-  rotate: false
-  xy: 2, 694
-  size: 116, 93
-  orig: 116, 93
-  offset: 0, 0
-  index: -1
+bounds:1756,1311,290,233
 04_embarassed
-  rotate: true
-  xy: 2, 3
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:1017,67,287,216
 05_serious
-  rotate: false
-  xy: 2, 513
-  size: 115, 89
-  orig: 115, 89
-  offset: 0, 0
-  index: -1
+bounds:1759,536,287,222
 06_depressed
-  rotate: true
-  xy: 717, 517
-  size: 115, 86
-  orig: 115, 86
-  offset: 0, 0
-  index: -1
+bounds:2,2,287,215
+rotate:90
 07_serious_02
-  rotate: false
-  xy: 661, 427
-  size: 115, 87
-  orig: 115, 87
-  offset: 0, 0
-  index: -1
+bounds:1413,96,287,218
 Fronthair
-  rotate: 270
-  xy: 694, 633
-  size: 130, 113
-  orig: 130, 113
-  offset: 0, 0
-  index: -1
+bounds:1729,1635,324,282
+rotate:270
 NP0121
-  rotate: false
-  xy: 2, 17
-  size: 407, 771
-  orig: 545, 1429
-  offset: 0, 0
-  index: -1
+bounds:2,32,1018,1927
+offsets:0,0,1362,3573
 NP01212
-  rotate: false
-  xy: 341, 104
-  size: 447, 670
-  orig: 545, 1429
-  offset: 98, 759
-  index: -1
+bounds:846,284,1116,1675
+offsets:246,1898,1362,3573
 glasses
-  rotate: true
-  xy: 114, 488
-  size: 143, 53
-  orig: 143, 53
-  offset: 0, 0
-  index: -1
+bounds:2,1827,359,132
 halo
-  rotate: false
-  xy: 569, 19
-  size: 191, 152
-  orig: 191, 152
-  offset: 0, 0
-  index: -1
+bounds:2,1384,479,380
+rotate:90

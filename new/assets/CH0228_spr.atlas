@@ -1,132 +1,46 @@
-
 CH0228_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 762, 342
-  size: 113, 91
-  orig: 113, 91
-  offset: 0, 0
-  index: -1
-02_respond
-  rotate: false
-  xy: 746, 449
-  size: 113, 95
-  orig: 113, 95
-  offset: 0, 0
-  index: -1
-03_smile
-  rotate: false
-  xy: 833, 546
-  size: 112, 98
-  orig: 112, 98
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_default
-  rotate: false
-  xy: 833, 546
-  size: 112, 98
-  orig: 112, 98
-  offset: 0, 0
-  index: -1
+bounds:1395,330,243,213
+03_smile
+bounds:1395,330,243,213
+01_normal
+bounds:1834,1412,246,198
+rotate:90
+02_respond
+bounds:1640,338,246,205
 04_embarassed
-  rotate: true
-  xy: 877, 320
-  size: 113, 91
-  orig: 113, 91
-  offset: 0, 0
-  index: -1
+bounds:1823,1164,246,196
+rotate:90
 05_serious
-  rotate: false
-  xy: 632, 527
-  size: 112, 98
-  orig: 112, 98
-  offset: 0, 0
-  index: -1
+bounds:1150,413,243,213
 06_depressde
-  rotate: false
-  xy: 554, 262
-  size: 110, 89
-  orig: 110, 89
-  offset: 0, 0
-  index: -1
+bounds:946,2,239,194
 07
-  rotate: true
-  xy: 861, 435
-  size: 109, 98
-  orig: 109, 98
-  offset: 0, 0
-  index: -1
+bounds:954,198,235,213
 08
-  rotate: false
-  xy: 533, 430
-  size: 112, 95
-  orig: 112, 95
-  offset: 0, 0
-  index: -1
+bounds:1640,131,243,205
 09
-  rotate: false
-  xy: 647, 353
-  size: 113, 93
-  orig: 113, 93
-  offset: 0, 0
-  index: -1
+bounds:1191,126,244,202
 10
-  rotate: false
-  xy: 516, 558
-  size: 113, 98
-  orig: 113, 98
-  offset: 0, 0
-  index: -1
+bounds:1565,545,246,212
 11
-  rotate: false
-  xy: 838, 646
-  size: 113, 98
-  orig: 113, 98
-  offset: 0, 0
-  index: -1
+bounds:1800,759,246,213
 12
-  rotate: false
-  xy: 849, 855
-  size: 112, 114
-  orig: 112, 114
-  offset: 0, 0
-  index: -1
+bounds:2,1411,243,247
 13
-  rotate: false
-  xy: 844, 746
-  size: 110, 107
-  orig: 110, 107
-  offset: 0, 0
-  index: -1
+bounds:2,1176,239,233
 CH228
-  rotate: false
-  xy: 2, 238
-  size: 529, 732
-  orig: 529, 1195
-  offset: 0, 0
-  index: -1
+bounds:2,73,1147,1585
+offsets:0,0,1147,2588
 CH2299
-  rotate: true
-  xy: 359, 603
-  size: 368, 489
-  orig: 529, 1195
-  offset: 64, 706
-  index: -1
+bounds:773,863,795,1059
+offsets:140,1529,1147,2588
+rotate:90
 eyeclose
-  rotate: false
-  xy: 442, 336
-  size: 110, 91
-  orig: 110, 91
-  offset: 0, 0
-  index: -1
+bounds:1437,90,238,198
+rotate:90
 halo
-  rotate: true
-  xy: 2, 779
-  size: 190, 164
-  orig: 190, 164
-  offset: 0, 0
-  index: -1
+bounds:1179,628,412,356

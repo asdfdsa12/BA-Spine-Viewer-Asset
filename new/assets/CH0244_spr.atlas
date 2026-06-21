@@ -1,139 +1,50 @@
-
 CH0244_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.3
 00_default
-  rotate: true
-  xy: 927, 293
-  size: 145, 84
-  orig: 145, 84
-  offset: 0, 0
-  index: -1
-00_eye close
-  rotate: true
-  xy: 930, 12
-  size: 132, 84
-  orig: 132, 84
-  offset: 0, 0
-  index: -1
+bounds:666,59,313,182
+rotate:180
+00_eyeclose
+bounds:173,58,286,182
+rotate:180
 01_normal
-  rotate: 180
-  xy: 396, 47
-  size: 145, 84
-  orig: 145, 84
-  offset: 0, 0
-  index: -1
+bounds:1499,77,313,182
+rotate:180
 02_respond
-  rotate: false
-  xy: 481, 42
-  size: 145, 85
-  orig: 145, 85
-  offset: 0, 0
-  index: -1
+bounds:1678,60,313,183
 03_smile
-  rotate: true
-  xy: 932, 147
-  size: 145, 84
-  orig: 145, 84
-  offset: 0, 0
-  index: -1
+bounds:351,59,313,182
 04_embarassed
-  rotate: 180
-  xy: 735, 61
-  size: 145, 83
-  orig: 145, 83
-  offset: 0, 0
-  index: -1
+bounds:1184,78,313,181
 05_serious
-  rotate: false
-  xy: 784, 91
-  size: 145, 87
-  orig: 145, 87
-  offset: 0, 0
-  index: -1
+bounds:1547,245,313,189
 06_depressed
-  rotate: false
-  xy: 589, 91
-  size: 144, 83
-  orig: 144, 83
-  offset: 0, 0
-  index: -1
+bounds:1865,269,312,179
+rotate:90
 07_serious_2
-  rotate: false
-  xy: 781, 273
-  size: 145, 97
-  orig: 145, 97
-  offset: 0, 0
-  index: -1
+bounds:1231,261,313,209
 08_angry
-  rotate: false
-  xy: 820, 371
-  size: 144, 103
-  orig: 144, 103
-  offset: 0, 0
-  index: -1
+bounds:1734,1713,312,222
 09_respond_2
-  rotate: 180
-  xy: 627, 3
-  size: 131, 85
-  orig: 131, 85
-  offset: 0, 0
-  index: -1
+bounds:1757,907,285,185
 10_angry_2
-  rotate: false
-  xy: 788, 180
-  size: 142, 90
-  orig: 142, 90
-  offset: 0, 0
-  index: -1
+bounds:1851,1094,307,195
+rotate:90
 11_depressed_2
-  rotate: 180
-  xy: 2, 8
-  size: 142, 80
-  orig: 142, 80
-  offset: 0, 0
-  index: -1
+bounds:847,2,307,173
 CH0244
-  rotate: false
-  xy: 432, 175
-  size: 467, 725
-  orig: 503, 1503
-  offset: 0, 778
-  index: -1
+bounds:931,471,1011,1570
+offsets:0,1687,1089,3257
 CH02442
-  rotate: false
-  xy: 2, 70
-  size: 503, 830
-  orig: 503, 1503
-  offset: 0, 0
-  index: -1
+bounds:2,241,1089,1800
+offsets:0,0,1089,3257
 capcover
-  rotate: false
-  xy: 420, 128
-  size: 176, 67
-  orig: 176, 67
-  offset: 0, 0
-  index: -1
+bounds:812,176,381,146
 eyepatch
-  rotate: false
-  xy: 201, 851
-  size: 69, 49
-  orig: 69, 49
-  offset: 0, 0
-  index: -1
+bounds:428,1936,150,105
 fronthair
-  rotate: true
-  xy: 878, 475
-  size: 168, 94
-  orig: 168, 94
-  offset: 0, 0
-  index: -1
+bounds:865,309,364,203
 halo
-  rotate: 270
-  xy: 820, 632
-  size: 267, 152
-  orig: 267, 152
-  offset: 0, 0
-  index: -1
+bounds:1717,435,579,329
+rotate:90

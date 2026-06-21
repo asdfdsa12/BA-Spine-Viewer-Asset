@@ -1,132 +1,46 @@
-
 CH0236_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.35
 01_nomal
-  rotate: true
-  xy: 2, 282
-  size: 134, 91
-  orig: 134, 91
-  offset: 0, 0
-  index: -1
+bounds:593,169,274,186
 02_respond
-  rotate: false
-  xy: 382, 100
-  size: 136, 100
-  orig: 136, 100
-  offset: 0, 0
-  index: -1
+bounds:2,1282,278,205
 03_smile
-  rotate: false
-  xy: 776, 38
-  size: 133, 90
-  orig: 133, 90
-  offset: 0, 0
-  index: -1
+bounds:267,152,273,185
 04_embarassed
-  rotate: false
-  xy: 857, 235
-  size: 130, 111
-  orig: 130, 111
-  offset: 0, 0
-  index: -1
+bounds:1774,1710,266,227
 05_serious
-  rotate: true
-  xy: 633, 762
-  size: 131, 81
-  orig: 131, 81
-  offset: 0, 0
-  index: -1
+bounds:541,2,267,165
 06_depressed
-  rotate: false
-  xy: 520, 93
-  size: 125, 106
-  orig: 125, 106
-  offset: 0, 0
-  index: -1
+bounds:336,353,255,217
 07
-  rotate: false
-  xy: 248, 172
-  size: 133, 105
-  orig: 133, 105
-  offset: 0, 0
-  index: -1
+bounds:2,1489,271,215
 08
-  rotate: false
-  xy: 378, 6
-  size: 127, 92
-  orig: 127, 92
-  offset: 0, 0
-  index: -1
+bounds:1856,1097,259,188
+rotate:90
 09
-  rotate: false
-  xy: 647, 96
-  size: 127, 104
-  orig: 127, 104
-  offset: 0, 0
-  index: -1
+bounds:593,357,261,212
 10
-  rotate: false
-  xy: 248, 76
-  size: 129, 94
-  orig: 129, 94
-  offset: 0, 0
-  index: -1
+bounds:2,145,263,192
 11
-  rotate: false
-  xy: 507, 5
-  size: 133, 86
-  orig: 133, 86
-  offset: 0, 0
-  index: -1
+bounds:869,35,273,177
+rotate:90
 12
-  rotate: false
-  xy: 857, 780
-  size: 162, 113
-  orig: 162, 113
-  offset: 0, 0
-  index: -1
+bounds:2,339,332,231
 arata
-  rotate: false
-  xy: 2, 278
-  size: 527, 615
-  orig: 620, 1254
-  offset: 24, 639
-  index: -1
+bounds:969,118,1077,1257
+offsets:50,1308,1269,2565
+rotate:180
 arata_1
-  rotate: false
-  xy: 392, 201
-  size: 620, 662
-  orig: 620, 1254
-  offset: 0, 0
-  index: -1
+bounds:2,570,1269,1367
+offsets:0,0,1269,2565
 default
-  rotate: false
-  xy: 864, 130
-  size: 134, 102
-  orig: 134, 102
-  offset: 0, 0
-  index: -1
+bounds:961,1728,274,209
 eyeclose
-  rotate: false
-  xy: 647, 3
-  size: 127, 91
-  orig: 127, 91
-  offset: 0, 0
-  index: -1
+bounds:869,310,259,186
+rotate:90
 halo 1
-  rotate: false
-  xy: 858, 348
-  size: 163, 140
-  orig: 163, 140
-  offset: 0, 0
-  index: -1
+bounds:1713,1358,333,286
 halo 2
-  rotate: false
-  xy: 2, 51
-  size: 244, 226
-  orig: 244, 226
-  offset: 0, 0
-  index: -1
+bounds:1272,1475,500,462

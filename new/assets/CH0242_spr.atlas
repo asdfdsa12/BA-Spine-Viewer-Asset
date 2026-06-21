@@ -1,56 +1,62 @@
 CH0242_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.6
+size:2048,2048
+filter:Linear,Linear
+scale:1.24
 00_default
-	bounds: 148, 256, 144, 121
+bounds:949,349,298,250
+rotate:90
 00_eye close
-	bounds: 883, 221, 139, 121
+bounds:1787,325,288,250
+rotate:90
 01_normal
-	bounds: 315, 296, 145, 121
+bounds:648,539,299,250
 02_respond
-	bounds: 901, 347, 145, 121
-	rotate: 90
+bounds:1796,615,299,250
+rotate:90
 03_smile
-	bounds: 608, 180, 145, 115
-	rotate: 90
+bounds:602,300,299,237
 04_embarassed
-	bounds: 479, 653, 145, 121
+bounds:991,1215,299,250
+rotate:90
 05_serious
-	bounds: 480, 776, 145, 121
+bounds:1777,1724,299,250
+rotate:90
 06_depressed
-	bounds: 441, 148, 145, 109
+bounds:1258,240,299,226
+rotate:90
 07_serious_2
-	bounds: 462, 259, 144, 121
+bounds:302,457,298,250
 08_smile_2
-	bounds: 861, 901, 145, 121
+bounds:987,1516,299,250
 09_think
-	bounds: 866, 106, 139, 109
+bounds:903,121,288,226
 10_respond_2
-	bounds: 725, 106, 139, 109
+bounds:529,74,288,224
 11_respond_03
-	bounds: 2, 145, 144, 109
+bounds:303,157,298,224
+rotate:90
 12_respond_4
-	bounds: 294, 185, 145, 109
+bounds:2,231,299,224
 13_eyeclose_2
-	bounds: 148, 145, 139, 109
+bounds:1486,76,288,224
 14_shame
-	bounds: 289, 86, 134, 97
+bounds:1787,45,278,200
+rotate:90
 15_surprise
-	bounds: 736, 217, 145, 115
+bounds:1486,302,299,237
 16_serious_3
-	bounds: 714, 901, 145, 121
+bounds:1476,1773,299,250
 17_serious_4
-	bounds: 2, 280, 144, 121
+bounds:2,506,298,250
 CH0242_hikar2
-	bounds: 2, 379, 481, 643
-	offsets: 50, 514, 547, 1157
+bounds:916,540,1130,1157
+offsets:0,0,1130,2392
 CH0242_hikari
-	bounds: 475, 326, 547, 560
-	offsets: 0, 0, 547, 1157
+bounds:2,708,993,1315
+offsets:104,1077,1130,2392
 fronthair
-	bounds: 570, 45, 173, 110
+bounds:2,2,358,227
 halo
-	bounds: 369, 898, 343, 124
+bounds:766,1768,708,255
 hat_cover
-	bounds: 555, 978, 143, 44
+bounds:1146,1931,295,92

@@ -1,28 +1,26 @@
 sena_spr.png
-	size: 2048, 2048
-	filter: Linear, Linear
+size:2048,2048
+filter:Linear,Linear
+scale:1.17
 00_default
-	bounds: 1700, 1821, 217, 149
-	rotate: 90
+bounds:1610,1828,254,174
 01_normal
-	bounds: 2, 1516, 217, 140
+bounds:1632,1142,254,164
 02_respond
-	bounds: 1700, 1536, 217, 141
+bounds:1376,1141,254,165
 03_smile
-	bounds: 1058, 1482, 216, 140
+bounds:258,1129,253,164
 04_embarrassed
-	bounds: 1496, 1403, 218, 131
+bounds:2,974,255,153
 05_serious
-	bounds: 1145, 1624, 217, 143
+bounds:2,1219,254,167
 06_depressed
-	bounds: 1276, 1421, 218, 131
+bounds:1632,987,255,153
 eyeclose
-	bounds: 1700, 1679, 224, 140
+bounds:2,1388,262,164
 halo
-	bounds: 1376, 1554, 484, 322
-	rotate: 90
+bounds:1339,1308,566,377
 sena_1
-	bounds: 2, 736, 1373, 1302
+bounds:2,479,1606,1523
 sena_2
-	bounds: 2, 2, 1180, 1143
-	rotate: 90
+bounds:665,2,1381,1337

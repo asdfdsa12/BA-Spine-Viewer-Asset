@@ -1,104 +1,35 @@
-
 NP0134_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.35
 01_normal
-  rotate: false
-  xy: 2, 804
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
+bounds:2,1806,76,27
 default
-  rotate: false
-  xy: 2, 804
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
+bounds:2,1806,76,27
 eyeclose
-  rotate: false
-  xy: 2, 804
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
+bounds:2,1806,76,27
 02_respond
-  rotate: false
-  xy: 2, 769
-  size: 19, 16
-  orig: 19, 16
-  offset: 0, 0
-  index: -1
+bounds:1645,1797,43,36
 03_smile
-  rotate: false
-  xy: 104, 647
-  size: 44, 34
-  orig: 44, 34
-  offset: 0, 0
-  index: -1
+bounds:1753,1757,99,76
 04_embarrass
-  rotate: false
-  xy: 314, 476
-  size: 59, 29
-  orig: 59, 29
-  offset: 0, 0
-  index: -1
+bounds:1194,1767,132,66
 05_serious
-  rotate: false
-  xy: 105, 636
-  size: 32, 8
-  orig: 32, 8
-  offset: 0, 0
-  index: -1
+bounds:2,1785,73,19
 06_depressed
-  rotate: false
-  xy: 2, 787
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
+bounds:659,1799,49,34
 07_etc
-  rotate: false
-  xy: 235, 786
-  size: 60, 31
-  orig: 60, 31
-  offset: 0, 0
-  index: -1
+bounds:522,1764,135,69
 08_etc
-  rotate: false
-  xy: 337, 560
-  size: 62, 106
-  orig: 62, 106
-  offset: 0, 0
-  index: -1
+bounds:1882,1595,139,238
 09_etc
-  rotate: false
-  xy: 145, 780
-  size: 88, 37
-  orig: 88, 37
-  offset: 0, 0
-  index: -1
+bounds:323,1751,197,82
 NP0134
-  rotate: false
-  xy: 2, 3
-  size: 573, 814
-  orig: 616, 1404
-  offset: 43, 0
-  index: -1
+bounds:2,2,1287,1831
+offsets:98,0,1385,3159
 NP01345
-  rotate: 180
-  xy: 509, 135
-  size: 394, 601
-  orig: 616, 1404
-  offset: 0, 803
-  index: -1
+bounds:1153,481,886,1352
+offsets:0,1807,1385,3159
+rotate:180
 halo
-  rotate: false
-  xy: 326, 667
-  size: 206, 149
-  orig: 206, 149
-  offset: 0, 0
-  index: -1
+bounds:729,1497,463,336

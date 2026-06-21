@@ -1,61 +1,62 @@
 NP0251_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.55
+size:2048,2048
+filter:Linear,Linear
+scale:1.13
 01_normal
-	bounds: 253, 931, 126, 91
+bounds:516,1824,259,188
 02_respond
-	bounds: 697, 378, 116, 83
-	offsets: 5, 5, 126, 93
+bounds:2,511,237,169
+offsets:11,11,259,191
 03_smile
-	bounds: 868, 206, 113, 80
-	offsets: 5, 5, 123, 90
+bounds:1772,168,230,163
+offsets:11,11,252,185
 04_embarassed
-	bounds: 2, 387, 116, 93
-	offsets: 5, 5, 126, 103
+bounds:1809,664,237,189
+offsets:11,11,259,211
 05_serious
-	bounds: 629, 213, 116, 80
-	offsets: 5, 5, 126, 90
+bounds:2,169,237,163
+offsets:11,11,259,185
 06_depressed
-	bounds: 870, 288, 116, 80
-	offsets: 5, 5, 126, 90
+bounds:1280,325,237,163
+offsets:11,11,259,185
 07
-	bounds: 634, 295, 116, 81
-	offsets: 5, 5, 126, 91
+bounds:1298,490,237,164
+offsets:11,11,259,186
 08
-	bounds: 2, 304, 116, 81
-	offsets: 5, 5, 126, 91
+bounds:1665,498,237,164
+offsets:11,11,259,186
 09
-	bounds: 906, 370, 116, 91
-	offsets: 5, 5, 126, 101
+bounds:1426,656,237,186
+offsets:11,11,259,208
 10
-	bounds: 581, 505, 123, 92
-	offsets: 7, 5, 135, 102
+bounds:1168,760,256,188
+offsets:11,11,278,210
 11
-	bounds: 873, 619, 123, 92
-	offsets: 7, 5, 135, 102
+bounds:1189,950,256,188
+offsets:11,11,278,210
 12
-	bounds: 899, 713, 123, 92
-	offsets: 7, 5, 135, 102
+bounds:1790,1192,256,188
+offsets:11,11,278,210
 13
-	bounds: 570, 413, 125, 90
-	offsets: 5, 5, 135, 100
+bounds:2,682,256,183
+offsets:11,11,278,205
 Hair_Cover
-	bounds: 2, 855, 171, 167
+bounds:2,1670,351,342
 NP0251
-	bounds: 541, 569, 396, 453
-	offsets: 155, 971, 631, 1426
+bounds:1107,1082,813,930
+offsets:319,1995,1297,2929
 NP0251_01
-	bounds: 2, 43, 630, 979
-	offsets: 1, 0, 631, 1426
+bounds:2,2,1295,2010
+offsets:2,0,1297,2929
 Sunglass
-	bounds: 255, 875, 111, 54
+bounds:520,1713,228,110
+offsets:0,1,228,111
 default
-	bounds: 752, 296, 116, 80
-	offsets: 5, 5, 126, 90
+bounds:1772,333,237,163
+offsets:11,11,259,185
 eyeclose
-	bounds: 752, 213, 114, 81
-	offsets: 5, 5, 124, 91
+bounds:1537,330,233,166
+offsets:11,11,255,188
 halo
-	bounds: 731, 453, 291, 136
-	offsets: 1, 2, 292, 140
+bounds:1449,835,597,279
+offsets:2,5,599,288

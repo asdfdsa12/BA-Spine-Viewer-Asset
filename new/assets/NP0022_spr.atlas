@@ -1,83 +1,29 @@
-
 NP0022_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 00
-  rotate: false
-  xy: 41, 872
-  size: 21, 7
-  orig: 21, 7
-  offset: 0, 0
-  index: -1
+bounds:186,1896,48,16
 smile
-  rotate: false
-  xy: 41, 872
-  size: 21, 7
-  orig: 21, 7
-  offset: 0, 0
-  index: -1
+bounds:186,1896,48,16
 01
-  rotate: false
-  xy: 2, 853
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
+bounds:282,1898,31,14
 07
-  rotate: false
-  xy: 2, 744
-  size: 81, 108
-  orig: 81, 108
-  offset: 0, 0
-  index: -1
+bounds:791,1667,184,245
 Trinity_Teaparty_01
-  rotate: false
-  xy: 307, 112
-  size: 572, 767
-  orig: 572, 1351
-  offset: 0, 584
-  index: -1
+bounds:2,143,1300,1769
+offsets:0,1302,1300,3071
 Trinity_Teaparty_022
-  rotate: false
-  xy: 2, 116
-  size: 388, 765
-  orig: 572, 1351
-  offset: 184, 1
-  index: -1
+bounds:1163,2,883,1740
+offsets:417,0,1300,3071
+rotate:180
 depressed
-  rotate: false
-  xy: 2, 645
-  size: 81, 97
-  orig: 81, 97
-  offset: 0, 0
-  index: -1
+bounds:977,1692,184,220
 embarassed
-  rotate: false
-  xy: 2, 861
-  size: 38, 18
-  orig: 38, 18
-  offset: 0, 0
-  index: -1
+bounds:98,1871,86,41
 halo
-  rotate: false
-  xy: 277, 465
-  size: 162, 141
-  orig: 162, 141
-  offset: 0, 0
-  index: -1
+bounds:421,1591,368,321
 respond
-  rotate: false
-  xy: 41, 855
-  size: 10, 8
-  orig: 10, 8
-  offset: 0, 0
-  index: -1
+bounds:73,1894,23,18
 serious
-  rotate: false
-  xy: 41, 864
-  size: 19, 7
-  orig: 19, 7
-  offset: 0, 0
-  index: -1
+bounds:236,1897,44,15

@@ -1,97 +1,34 @@
-
 Cook_GenbuStore_SG_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 486, 594
-  size: 101, 102
-  orig: 101, 102
-  offset: 0, 0
-  index: -1
-02_respond
-  rotate: true
-  xy: 363, 21
-  size: 101, 102
-  orig: 101, 102
-  offset: 0, 0
-  index: -1
-03_smile
-  rotate: false
-  xy: 588, 591
-  size: 101, 102
-  orig: 101, 102
-  offset: 0, 0
-  index: -1
+size:2048,2048
+filter:Linear,Linear
+scale:1.25
 00_default
-  rotate: false
-  xy: 588, 591
-  size: 101, 102
-  orig: 101, 102
-  offset: 0, 0
-  index: -1
+bounds:1557,365,251,255
+03_smile
+bounds:1557,365,251,255
+01_normal
+bounds:1028,370,251,255
+02_respond
+bounds:775,377,251,255
 04_embarrass
-  rotate: false
-  xy: 622, 148
-  size: 101, 102
-  orig: 101, 102
-  offset: 0, 0
-  index: -1
+bounds:1601,622,251,255
 05_Serious
-  rotate: true
-  xy: 661, 356
-  size: 100, 97
-  orig: 100, 97
-  offset: 0, 0
-  index: -1
+bounds:859,127,250,241
 06_depressed
-  rotate: true
-  xy: 2, 552
-  size: 97, 82
-  orig: 97, 82
-  offset: 0, 0
-  index: -1
+bounds:1111,163,241,204
 07_1
-  rotate: false
-  xy: 555, 43
-  size: 101, 104
-  orig: 101, 104
-  offset: 0, 0
-  index: -1
+bounds:1669,1136,251,259
 07_2
-  rotate: false
-  xy: 657, 47
-  size: 99, 100
-  orig: 99, 100
-  offset: 0, 0
-  index: -1
+bounds:1281,369,248,249
 Cook_GenbuStore_SG
-  rotate: false
-  xy: 2, 37
-  size: 360, 722
-  orig: 387, 1135
-  offset: 27, 0
-  index: -1
+bounds:2,2,897,1804
+offsets:69,0,966,2836
 Cook_GenbuStore_SG_0
-  rotate: false
-  xy: 275, 122
-  size: 387, 476
-  orig: 387, 1135
-  offset: 0, 659
-  index: -1
+bounds:701,618,966,1188
+offsets:0,1648,966,2836
+rotate:180
 Halo
-  rotate: false
-  xy: 320, 600
-  size: 164, 110
-  orig: 164, 110
-  offset: 0, 0
-  index: -1
+bounds:1669,1397,409,274
+rotate:90
 eyeclose
-  rotate: false
-  xy: 634, 252
-  size: 101, 102
-  orig: 101, 102
-  offset: 0, 0
-  index: -1
+bounds:1645,879,251,255
